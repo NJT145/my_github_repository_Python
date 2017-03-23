@@ -1,0 +1,4 @@
+afek5 32 40 72
+asdas 55 50 45
+abcde 81 92 78
+sadce 15 25 35

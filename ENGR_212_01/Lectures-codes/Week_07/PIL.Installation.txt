@@ -1,0 +1,43 @@
+PIL installation instructions
+
+
+Windows:
+-----------
+
+1. Download and install the PIL setup file (choose the one based on your installed Python version) 
+	from the following link:
+
+http://www.pythonware.com/products/pil/
+
+
+
+
+MAC OS
+-----------
+1. Install homebrew by following all the instructions below:
+	
+
+http://coolestguidesontheplanet.com/installing-homebrew-os-x-yosemite-10-10-package-manager-unix-apps/
+
+
+2. Run the following command on terminal window:
+
+sudo pip uninstall pil
+
+
+3. Run the following command on terminal window:
+
+brew install jpeg
+
+
+4. Run the following command on terminal window: 
+
+brew install libjpeg
+
+
+5. Run the following command on terminal window:
+
+
+	ARCHFLAGS=-Wno-error=unused-command-line-argument-hard-error-in-future sudo pip install PIL 
+	--allow-external PIL --allow-unverified PIL
+
