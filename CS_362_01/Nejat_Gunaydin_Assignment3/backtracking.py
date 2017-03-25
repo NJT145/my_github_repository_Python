@@ -14,10 +14,5 @@ class CSP_Solver(object):
         pass
 
 
-        
-    
 
-
-
-
-
+init_arrangement = [ ["","","",""], ["","","",""], ["","","",""], ["","","",""] ]

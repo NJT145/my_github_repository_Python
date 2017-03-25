@@ -68,14 +68,13 @@ build/
 *.tlb
 *.tli
 *.tlh
-*.tmp
+#*.tmp   # ignored
 *.tmp_proj
 *.log
 *.vspscc
 *.vssscc
 .builds
 *.pidb
-*.log
 *.scc
 
 # Visual C++ cache files
@@ -194,7 +193,7 @@ $RECYCLE.BIN/
 *.egg
 *.egg-info
 dist/
-build/
+#build/    # ignored
 eggs/
 parts/
 var/
