@@ -107,6 +107,7 @@ class CSP_Solver(object):
         """
         textFile = open(file1)
         text = textFile.read()
+        text = text.strip()
         conflicts_dict = {}
         for line in text.split("\n"):
             studentMain = line.strip().split("-")[0]
@@ -179,7 +180,7 @@ print(">>>init_arrangement")
 print(init_arrangement)
 
 print(">>>CSP_Solver().get_num_of_conflicts(\"Jill\", init_arrangement)")
-print(CSP_Solver().get_num_of_conflicts("Will", init_arrangement))
+print(CSP_Solver().get_num_of_conflicts("Jill", init_arrangement))
 
 print(">>>CSP_Solver().get_total_conflicts(init_arrangement)")
 print(CSP_Solver().get_total_conflicts(init_arrangement))
