@@ -2,8 +2,8 @@ import heapq
 
 class PriorityQueue:
     
-    def __init__(self, inlist=[]):
-        self.priorityqueue=inlist
+    def __init__(self, inlist=None):
+        self.priorityqueue=inlist or []
         heapq.heapify(self.priorityqueue)
 
     def makequeue(self,inlist):
@@ -53,7 +53,7 @@ A.decreaseKey((1,'D'))
 print A.priorityqueue
 print A.peek()
 
-B=PriorityQueue([(2, 'A'),(1, 'B'), (4, 'C'), (3, 'D')])
+B=PriorityQueue()
 B.makequeue([(2, 'A'),(1, 'B'), (4, 'C'), (3, 'D')])
 print B.priorityqueue
 print B.peek()

@@ -2,8 +2,8 @@ import heapq
 
 class PriorityQueue:
     
-    def __init__(self, inlist=[]):
-        self.priorityqueue=inlist
+    def __init__(self, inlist=None):
+        self.priorityqueue=inlist or []
         heapq.heapify(self.priorityqueue)
 
     def makequeue(self,inlist):
