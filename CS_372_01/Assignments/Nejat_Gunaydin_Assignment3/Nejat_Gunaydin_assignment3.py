@@ -1,6 +1,7 @@
 #-*- coding: utf-8 -*-
 
 """
-Student name-surname-ID : Nejat Günaydın - 213861517
+<student_name student_surname>-<student_id>=<Nejat Günaydın>-<213861517>
+
 
 """
