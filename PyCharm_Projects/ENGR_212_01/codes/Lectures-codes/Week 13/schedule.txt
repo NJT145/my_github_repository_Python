@@ -1,0 +1,1228 @@
+LGA,OMA,6:19,8:13,239
+OMA,LGA,6:11,8:31,249
+LGA,OMA,8:04,10:59,136
+OMA,LGA,7:39,10:24,219
+LGA,OMA,9:31,11:43,210
+OMA,LGA,9:15,12:03,99
+LGA,OMA,11:07,13:24,171
+OMA,LGA,11:08,13:07,175
+LGA,OMA,12:31,14:02,234
+OMA,LGA,12:18,14:56,172
+LGA,OMA,14:05,15:47,226
+OMA,LGA,13:37,15:08,250
+LGA,OMA,15:07,17:21,129
+OMA,LGA,15:03,16:42,135
+LGA,OMA,16:35,18:56,144
+OMA,LGA,16:51,19:09,147
+LGA,OMA,18:25,20:34,205
+OMA,LGA,18:12,20:17,242
+LGA,OMA,20:05,21:44,172
+OMA,LGA,20:05,22:06,261
+LGA,ORD,6:03,8:43,219
+ORD,LGA,6:05,8:32,174
+LGA,ORD,7:50,10:08,164
+ORD,LGA,8:25,10:34,157
+LGA,ORD,9:11,10:42,172
+ORD,LGA,9:42,11:32,169
+LGA,ORD,10:33,13:11,132
+ORD,LGA,11:01,12:39,260
+LGA,ORD,12:08,14:47,231
+ORD,LGA,12:44,14:17,134
+LGA,ORD,14:19,17:09,190
+ORD,LGA,14:22,16:32,126
+LGA,ORD,15:04,17:23,189
+ORD,LGA,15:58,18:40,173
+LGA,ORD,17:06,20:00,95
+ORD,LGA,16:43,19:00,246
+LGA,ORD,18:33,20:22,143
+ORD,LGA,18:48,21:45,246
+LGA,ORD,19:32,21:25,160
+ORD,LGA,19:50,22:24,269
+LGA,MIA,6:33,9:14,172
+MIA,LGA,6:25,9:30,335
+LGA,MIA,8:23,11:07,143
+MIA,LGA,7:34,9:40,324
+LGA,MIA,9:25,12:46,295
+MIA,LGA,9:15,12:29,225
+LGA,MIA,11:08,14:38,262
+MIA,LGA,11:28,14:40,248
+LGA,MIA,12:37,15:05,170
+MIA,LGA,12:05,15:30,330
+LGA,MIA,14:08,16:09,232
+MIA,LGA,14:01,17:24,338
+LGA,MIA,15:23,18:49,150
+MIA,LGA,15:34,18:11,326
+LGA,MIA,16:50,19:26,304
+MIA,LGA,17:07,20:04,291
+LGA,MIA,18:07,21:30,355
+MIA,LGA,18:23,21:35,134
+LGA,MIA,20:27,23:42,169
+MIA,LGA,19:53,22:21,173
+LGA,BOS,6:39,8:09,86
+BOS,LGA,6:17,8:26,89
+LGA,BOS,8:23,10:28,149
+BOS,LGA,8:04,10:11,95
+LGA,BOS,9:58,11:18,130
+BOS,LGA,9:45,11:50,172
+LGA,BOS,10:33,12:03,74
+BOS,LGA,11:16,13:29,83
+LGA,BOS,12:08,14:05,142
+BOS,LGA,12:34,15:02,109
+LGA,BOS,13:39,15:30,74
+BOS,LGA,13:40,15:37,138
+LGA,BOS,15:25,16:58,62
+BOS,LGA,15:27,17:18,151
+LGA,BOS,17:03,18:03,103
+BOS,LGA,17:11,18:30,108
+LGA,BOS,18:24,20:49,124
+BOS,LGA,18:34,19:36,136
+LGA,BOS,19:58,21:23,142
+BOS,LGA,20:17,22:22,102
+LGA,DAL,6:09,9:49,414
+DAL,LGA,6:12,10:22,230
+LGA,DAL,7:57,11:15,347
+DAL,LGA,7:53,11:37,433
+LGA,DAL,9:49,13:51,229
+DAL,LGA,9:08,12:12,364
+LGA,DAL,10:51,14:16,256
+DAL,LGA,10:30,14:57,290
+LGA,DAL,12:20,16:34,500
+DAL,LGA,12:19,15:25,342
+LGA,DAL,14:20,17:32,332
+DAL,LGA,13:54,18:02,294
+LGA,DAL,15:49,20:10,497
+DAL,LGA,15:44,18:55,382
+LGA,DAL,17:14,20:59,277
+DAL,LGA,16:52,20:48,448
+LGA,DAL,18:44,22:42,351
+DAL,LGA,18:26,21:29,464
+LGA,DAL,19:57,23:15,512
+DAL,LGA,20:07,23:27,473
+LGA,CAK,6:58,9:01,238
+CAK,LGA,6:08,8:06,224
+LGA,CAK,8:19,11:16,122
+CAK,LGA,8:27,10:45,139
+LGA,CAK,9:58,12:56,249
+CAK,LGA,9:15,12:14,247
+LGA,CAK,10:32,13:16,139
+CAK,LGA,10:53,13:36,189
+LGA,CAK,12:01,13:41,267
+CAK,LGA,12:08,14:59,149
+LGA,CAK,13:37,15:33,142
+CAK,LGA,13:40,15:38,137
+LGA,CAK,15:50,18:45,243
+CAK,LGA,15:23,17:25,232
+LGA,CAK,16:33,18:15,253
+CAK,LGA,17:08,19:08,262
+LGA,CAK,18:17,21:04,259
+CAK,LGA,18:35,20:28,204
+LGA,CAK,19:46,21:45,214
+CAK,LGA,20:30,23:11,114
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" __expr-val-dir="ltr" lang="en-us" dir="ltr">
+<head><meta http-equiv="X-UA-Compatible" content="IE=8" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta name="progid" content="SharePoint.WebPartPage.Document" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><title>
+	
+	Mybox
+
+</title><link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Themable/Core%20Styles/controls.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/page-layouts-21.css"/>
+<link rel="stylesheet" type="text/css" href="/Style%20Library/en-US/Core%20Styles/rca.css"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/search.css?rev=T%2Bhraxktc1A8EnaG5gGMHQ%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/corev4.css?rev=p63%2BuzTeSJc22nVGNZ5zwg%3D%3D"/>
+
+	<script type="text/javascript">
+	var _fV4UI = true;
+	</script>
+	<script type="text/javascript">
+// <![CDATA[
+document.write('<script type="text/javascript" src="/_layouts/1033/init.js?rev=lEi61hsCxcBAfvfQNZA%2FsQ%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/jquery-1.4.2.min.js?rev=ZbNS4bp58OKjseAUvCVxrw%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/vwpproject/script/jquery-1.4.2.min.js?rev=EAku7lY97C3Kgrd9LPWhrg%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/jquery.watermarkinput.js?rev=QgOdMKenFWGhjPkkF8rXnA%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/vwpproject/script/jquery.watermarkinput.js?rev=QgOdMKenFWGhjPkkF8rXnA%3D%3D"></' + 'script>');
+// ]]>
+</script>
+<link type="text/xml" rel="alternate" href="/_vti_bin/spsdisco.aspx" />
+	
+	
+			
+			
+		
+	
+	
+<link rel="shortcut icon" href="/images/my_img/favicon.ico" type="image/vnd.microsoft.icon" /><link href="/images/my_img/mysehirstyle.css" rel="stylesheet" type="text/css" /><link href="/images/my_img/event.css" rel="stylesheet" type="text/css" /><link href="/images/my_img/lms_yeni.css" rel="stylesheet" type="text/css" />
+	
+    <script type="text/javascript" src="/_layouts/LMS_V2/Wall/jquery.dd.js"></script>
+
+	
+	
+	
+	
+	<!-- scroll için -->
+	 <link href="/images/my_img/src/perfect-scrollbar.css" rel="stylesheet" />
+    <script src="/images/my_img/src/jquery.mousewheel.js"></script>
+    <script src="/images/my_img/src/perfect-scrollbar.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function ($) {
+        $('#description').perfectScrollbar({
+          wheelSpeed: 20,
+          wheelPropagation: false
+        });
+      });
+    </script>
+
+
+
+<link href="/WebResource.axd?d=8imEmtyj0Fe58JGfTKCItMRG4PuBgQUUKN--nTTTe_NgRsUfsirk236sjq-B-7u5Y6_ySw27S81qW5P5tUCZ04tFdEw8KEjkcxsASUv69iqm5FxiWUNexBbkbNa7wRCLjyvaRMcv1R4tDuwnjZ9jQWKxySZMgEWObc_1-X5dsNMjvLzX0&amp;t=634645040522452618" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=hOPXA2x0iBdikStgYIHJtNIN9r1m0kqavXgpXVNQZ9_dN88bqq_3diSkI1h2TUiZr6ENBnPVgQytoXnrRWmW5bhENKNN6OF9MfHDoHUTFtRBnvN2ZHfxXrlGEW3G1Ic7E_u3u-ZslUYa-WdIcghx9oImH7LSvzip4cQ5o9ArNKaP-eNrQJZknsrXIhVc-zPLM4lSvg2&amp;t=634645040522452618" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=tAkSFNzXSqLP3xqVALP3gU4OXUicSvfKrUnCxMFWR7NoCofueYwjdpk0j-ZE_iNobd_am-p6KkPd1_TD4MCCia9mvgcboRhPjEK6z1I-02ZFC2bXA7ztXffvh95Nb-7PFofVPqG24DskCD2an6fQXTIexYF6N9nQ9CnHFmGZjQy02CWD0&amp;t=634645040522452618" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><link href="/WebResource.axd?d=DC5e3j21OG5-DL4q25kDwvuXp57qVFbohVnq7t_H4_w5NOTuEGKe2jFA_yFhhLVa-ddqa8GSK12hfuV02-L_sVCJuuDKveXTnHz5vtP_wLDizirOr4XbK2b612Di-YQNsZ3ZU0qvI9XUKljWVDR0aw4058HumJ4bbmqe394qAgiDcC2nUzxEYyEkobKObbiGyAeQCA2&amp;t=634645040522452618" type="text/css" rel="stylesheet" class="Telerik_stylesheet" /><style type="text/css">
+	.ctl00_wpz_0 { border-color:Black;border-width:1px;border-style:Solid; }
+
+</style></head>
+
+<body  class="v4master">
+
+<script type="text/javascript">
+          $(document).ready(function() {
+               if (typeof(_spBodyOnLoadWrapper) != 'undefined')
+               {
+               _spBodyOnLoadWrapper();
+               }
+                 });
+</script> 
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/tr_TR/all.js#xfbml=1&appId=161159710652543";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <form name="aspnetForm" method="post" action="Mybox.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="0xAA84478D27E60D38DBAAD0D6B029013E5BBAC2105176FFFF67853E343D31F4359D65E94D520B99762C92E7EC6A59E9A5CD4FB1FAC207C3D691D0B1447FB7670E,13 May 2016 15:32:17 -0000" />
+<input type="hidden" name="MSOAuthoringConsole_FormContext" id="MSOAuthoringConsole_FormContext" value="" />
+<input type="hidden" name="MSOAC_EditDuringWorkflow" id="MSOAC_EditDuringWorkflow" value="" />
+<input type="hidden" name="InputComments" id="InputComments" value="" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUBMA9kFgJmD2QWAgIBD2QWBAIBD2QWBAIGD2QWAmYPZBYCAgEPFgIeE1ByZXZpb3VzQ29udHJvbE1vZGULKYgBTWljcm9zb2Z0LlNoYXJlUG9pbnQuV2ViQ29udHJvbHMuU1BDb250cm9sTW9kZSwgTWljcm9zb2Z0LlNoYXJlUG9pbnQsIFZlcnNpb249MTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49NzFlOWJjZTExMWU5NDI5YwFkAhAPZBYCAgcPFgIfAAsrBAFkAgMPZBYWAgMPZBYEBSZnX2JmMmE1ZjM3X2I3OWFfNGEwM185ZmNjX2RkYTUzNTVjYTdmYQ9kFgJmDw8WAh4OX0NvdXJzZUdyb3VwSUQFBDczMTJkFhxmDxAPFgYeDURhdGFUZXh0RmllbGQFBE5hbWUeDkRhdGFWYWx1ZUZpZWxkBQZUZXJtSUQeC18hRGF0YUJvdW5kZ2QQFQgbMjAxNS0yMDE2IC0gU3ByaW5nIFNlbWVzdGVyGTIwMTUtMjAxNiAtIEZhbGwgU2VtZXN0ZXIbMjAxNC0yMDE1IC0gU3VtbWVyIFNlbWVzdGVyGzIwMTQtMjAxNSAtIFNwcmluZyBTZW1lc3RlchkyMDE0LTIwMTUgLSBGYWxsIFNlbWVzdGVyGzIwMTMtMjAxNCAtIFN1bW1lciBTZW1lc3RlchsyMDEzLTIwMTQgLSBTcHJpbmcgU2VtZXN0ZXIZMjAxMy0yMDE0IC0gRmFsbCBTZW1lc3RlchUIAjc4Ajc1AjczAjcwAjY2AjY0AjYwAjUxFCsDCGdnZ2dnZ2dnFgFmZAIBDxAPFgYfAgUPQ291cnNlR3JvdXBOYW1lHwMFDUNvdXJzZUdyb3VwSUQfBGdkEBUHCU15IEZvbGRlcglDUyAyNDAgMDELRUVDUyAyMDIgMDELRUVDUyAyMTggMDELRU5HUiAyMTIgMDELRU5HUiAyNTEgMDELTElGRSAxMDIgMDEVBwpSb290Rm9sZGVyBDc3MzIENzMwOAQ3NjE3BDczMTIENzI5NgQ3NDEzFCsDB2dnZ2dnZ2cWAQIEZAICDxBkZBYBZmQCBA8PFgYeBFRleHQFCyBHcmFkZUJvb2sgHghDc3NDbGFzc2UeBF8hU0ICAmRkAgUPDxYGHwUFDCBBdHRlbmRhbmNlIB8GZR8HAgJkZAIGDw8WBh8FBQwgQXNzaWdubWVudCAfBmUfBwICZGQCBw8PFgYfBQUHIE15Qm94IB8GBQ5sbXNfbWVudV9ha3Rpdh8HAgJkZAIIDw8WCB8FBQkgTWVzc2FnZSAfBmUfBwICHgdWaXNpYmxlaGRkAgkPDxYIHwUFCCBHcm91cHMgHwZlHwcCAh8IaGRkAgoPDxYIHwUFDSBNeSBTdHVkZW50cyAfBmUfBwICHwhoZGQCCw8PFggfBQUQIFN0dWRlbnQgUmVwb3J0IB8GZR8HAgIfCGhkZAIMDw8WBh8FBRAgR3JhZGVCb29rIFNldHVwHwZlHwcCAmRkAg0PDxYGHwUFFiBHcmFkZUJvb2sgU2NhbGUgU2V0dXAfBmUfBwICZGQCDg8PFgYfBQUGIEhlbHAgHwZlHwcCAmRkBSZnX2Q0NDFkMTEzX2VlYjdfNGUzMl9iNWNlX2ZhOTgzYjY2ODFlZQ8PFgIeCkNocm9tZVR5cGUCAmQWAmYPZBYCZg9kFgQCAQ8PFgIfCGhkZAIDD2QWAgIBD2QWAmYPZBYSAgMPDxYCHwUF3gE8YSBzdHlsZT0nY3Vyc29yOnBvaW50ZXInIG9uY2xpY2s9Im9wZW5Gb2xkZXIodGhpcywnNmU5NTg5ZDQtZWM0Ny00ZDYzLWJkY2UtMzhlYzBmMGIwMGE3JykiPkVOR1IgMjEyIDAxPC9hPiA+PGEgc3R5bGU9J2N1cnNvcjpwb2ludGVyJyBvbmNsaWNrPSJvcGVuRm9sZGVyKHRoaXMsJzAwYThlYjUzLWFmYzgtNDk1MS1hYTllLWE1NTRkYmYyYTQwYScpIj5MZWN0dXJlczwvYT4gPldlZWsgMTNkZAIFDxQrAAIPFgIeF0VuYWJsZUFqYXhTa2luUmVuZGVyaW5naGRkZAIHDw8WAh8FZWRkAgkPDxYCHwhoZGQCCw8PFgIfCGhkZAINDw8WAh8IaGRkAg8PFCsACA8WCB4MRW1wdHlNZXNzYWdlBQxNeUJveCdkYSBBcmEfCmgeDUxhYmVsQ3NzQ2xhc3MFB3JpTGFiZWwfBWVkFggeCUZvbnRfU2l6ZSgqIlN5c3RlbS5XZWIuVUkuV2ViQ29udHJvbHMuRm9udFVuaXQDOXB4HgVXaWR0aBsAAAAAAEBfQAEAAAAfBgURcmlUZXh0Qm94IHJpSG92ZXIfBwKCChYIHw0oKwUDOXB4Hw4bAAAAAABAX0ABAAAAHwYFEXJpVGV4dEJveCByaUVycm9yHwcCggoWCB8NKCsFAzlweB8OGwAAAAAAQF9AAQAAAB8GBRNyaVRleHRCb3ggcmlGb2N1c2VkHwcCggoWCB8NKCsFAzlweB8OGwAAAAAAQF9AAQAAAB8GBRNyaVRleHRCb3ggcmlFbmFibGVkHwcCggoWCB8NKCsFAzlweB8OGwAAAAAAQF9AAQAAAB8GBRRyaVRleHRCb3ggcmlEaXNhYmxlZB8HAoIKFggfDSgrBQM5cHgfDhsAAAAAAEBfQAEAAAAfBgURcmlUZXh0Qm94IHJpRW1wdHkfBwKCChYIHw0oKwUDOXB4Hw4bAAAAAABAX0ABAAAAHwYFEHJpVGV4dEJveCByaVJlYWQfBwKCCmQCFQ88KwANAQAPFgQfBGceC18hSXRlbUNvdW50AgNkFgJmD2QWCmYPDxYCHwhoZGQCAQ9kFgJmD2QWAgIBDw9kFgIeB29uY2xpY2sFGXNlbGVjdFBhbmVsKHRoaXMsMCxldmVudCkWBgIBDw8WAh4ISW1hZ2VVcmwFHy4uL19sYXlvdXRzL2ltYWdlcy9sZ19pY3BkZi5wbmcWAh8QBWZvcGVuRmlsZSgnaHR0cHM6Ly9teS5zZWhpci5lZHUudHIvQ291cnNlR3JvdXBEcm9wQm94Lzc4LzczMTIvTGVjdHVyZXMvV2VlayAxMy9FTkdSIDIxMiAtIFdlZWsgMTMucGRmJylkAgMPDxYEHg9Db21tYW5kQXJndW1lbnQFWmh0dHBzOi8vbXkuc2VoaXIuZWR1LnRyL0NvdXJzZUdyb3VwRHJvcEJveC83OC83MzEyL0xlY3R1cmVzL1dlZWsgMTMvRU5HUiAyMTIgLSBXZWVrIDEzLnBkZh4LQ29tbWFuZE5hbWUFFkVOR1IgMjEyIC0gV2VlayAxMy5wZGYWCB4DVVJMBVpodHRwczovL215LnNlaGlyLmVkdS50ci9Db3Vyc2VHcm91cERyb3BCb3gvNzgvNzMxMi9MZWN0dXJlcy9XZWVrIDEzL0VOR1IgMjEyIC0gV2VlayAxMy5wZGYeBFR5cGUFBEZpbGUeBEdVSUQFJDIxNmVlZGE0LWIwYTItNGI5Ny04MDFmLWRkMzAxY2QyNjcwOB8QBWZvcGVuRmlsZSgnaHR0cHM6Ly9teS5zZWhpci5lZHUudHIvQ291cnNlR3JvdXBEcm9wQm94Lzc4LzczMTIvTGVjdHVyZXMvV2VlayAxMy9FTkdSIDIxMiAtIFdlZWsgMTMucGRmJykWAmYPFQEWRU5HUiAyMTIgLSBXZWVrIDEzLnBkZmQCBA8VBBMwOS8wNS8yMDE2IDIwOjMwOjM5EzA5LzA1LzIwMTYgMjM6MzA6NDAKQWxpIENha21hawcwLjQzIE1CZAICD2QWAmYPZBYCAgEPD2QWAh8QBRlzZWxlY3RQYW5lbCh0aGlzLDEsZXZlbnQpFgYCAQ8PFgIfEQUfLi4vX2xheW91dHMvaW1hZ2VzL2xnX2ljZ2VuLmdpZhYCHxAFX29wZW5GaWxlKCdodHRwczovL215LnNlaGlyLmVkdS50ci9Db3Vyc2VHcm91cERyb3BCb3gvNzgvNzMxMi9MZWN0dXJlcy9XZWVrIDEzL29wdGltaXphdGlvbi5weScpZAIDDw8WBB8SBVNodHRwczovL215LnNlaGlyLmVkdS50ci9Db3Vyc2VHcm91cERyb3BCb3gvNzgvNzMxMi9MZWN0dXJlcy9XZWVrIDEzL29wdGltaXphdGlvbi5weR8TBQ9vcHRpbWl6YXRpb24ucHkWCB8UBVNodHRwczovL215LnNlaGlyLmVkdS50ci9Db3Vyc2VHcm91cERyb3BCb3gvNzgvNzMxMi9MZWN0dXJlcy9XZWVrIDEzL29wdGltaXphdGlvbi5weR8VBQRGaWxlHxYFJDIwOGNmMjhhLWI0YTktNGJjYi04YjUyLWFhYTBiNTVmYjExMB8QBV9vcGVuRmlsZSgnaHR0cHM6Ly9teS5zZWhpci5lZHUudHIvQ291cnNlR3JvdXBEcm9wQm94Lzc4LzczMTIvTGVjdHVyZXMvV2VlayAxMy9vcHRpbWl6YXRpb24ucHknKRYCZg8VAQ9vcHRpbWl6YXRpb24ucHlkAgQPFQQTMDkvMDUvMjAxNiAyMDozMTozNxMxMC8wNS8yMDE2IDExOjExOjE2CkFsaSBDYWttYWsHMC4wMSBNQmQCAw9kFgJmD2QWAgIBDw9kFgIfEAUZc2VsZWN0UGFuZWwodGhpcywyLGV2ZW50KRYGAgEPDxYCHxEFHy4uL19sYXlvdXRzL2ltYWdlcy9sZ19pY3R4dC5naWYWAh8QBVxvcGVuRmlsZSgnaHR0cHM6Ly9teS5zZWhpci5lZHUudHIvQ291cnNlR3JvdXBEcm9wQm94Lzc4LzczMTIvTGVjdHVyZXMvV2VlayAxMy9zY2hlZHVsZS50eHQnKWQCAw8PFgQfEgVQaHR0cHM6Ly9teS5zZWhpci5lZHUudHIvQ291cnNlR3JvdXBEcm9wQm94Lzc4LzczMTIvTGVjdHVyZXMvV2VlayAxMy9zY2hlZHVsZS50eHQfEwUMc2NoZWR1bGUudHh0FggfFAVQaHR0cHM6Ly9teS5zZWhpci5lZHUudHIvQ291cnNlR3JvdXBEcm9wQm94Lzc4LzczMTIvTGVjdHVyZXMvV2VlayAxMy9zY2hlZHVsZS50eHQfFQUERmlsZR8WBSQ3YjA3M2JkMC02NTdkLTQ3ZjUtOGVhMi1hZTQ4ZmZhMWZkNWMfEAVcb3BlbkZpbGUoJ2h0dHBzOi8vbXkuc2VoaXIuZWR1LnRyL0NvdXJzZUdyb3VwRHJvcEJveC83OC83MzEyL0xlY3R1cmVzL1dlZWsgMTMvc2NoZWR1bGUudHh0JykWAmYPFQEMc2NoZWR1bGUudHh0ZAIEDxUEEzA5LzA1LzIwMTYgMjA6MzE6MzcTMDkvMDUvMjAxNiAyMzozMTozNwpBbGkgQ2FrbWFrBDAgTUJkAgQPDxYCHwhoZGQCFw8PFgIfBQUoMTAgR0InxLFuIGt1bGxhbsSxbGFuIGFsYW7EsTowIE1CICggJTAgKWRkAhEPZBYCAgEPZBYEZg9kFgICAQ8WAh8IaBYCZg9kFgQCAg9kFgQCAQ8WAh8IaGQCAw8WCB4TQ2xpZW50T25DbGlja1NjcmlwdAVqamF2YVNjcmlwdDpDb3JlSW52b2tlKCdUYWtlT2ZmbGluZVRvQ2xpZW50UmVhbCcsMSwgMSwgJ2h0dHBzOlx1MDAyZlx1MDAyZm15LnNlaGlyLmVkdS50cicsIC0xLCAtMSwgJycsICcnKR4YQ2xpZW50T25DbGlja05hdmlnYXRlVXJsZB4oQ2xpZW50T25DbGlja1NjcmlwdENvbnRhaW5pbmdQcmVmaXhlZFVybGQeDEhpZGRlblNjcmlwdAUhVGFrZU9mZmxpbmVEaXNhYmxlZCgxLCAxLCAtMSwgLTEpZAIDDw8WCh4JQWNjZXNzS2V5BQEvHg9BcnJvd0ltYWdlV2lkdGgCBR4QQXJyb3dJbWFnZUhlaWdodAIDHhFBcnJvd0ltYWdlT2Zmc2V0WGYeEUFycm93SW1hZ2VPZmZzZXRZAusDZGQCAQ9kFgICAw9kFgJmD2QWAmYPFCsAA2QFJmh0dHA6Ly9teXNpdGUuc2VoaXIuZWR1LnRyL1BlcnNvbi5hc3B4BRtodHRwOi8vbXlzaXRlLnNlaGlyLmVkdS50ci9kAhUPZBYCAgcPZBYCAgUPZBYCAgEPFgIfAAsrBAFkAhcPDxYCHwkCAmQWAmYPZBYCAgEPDxYCHwUFsQY8bGk+PGEgdGFyZ2V0PSdfYmxhbmsnIGhyZWY9J2h0dHA6Ly9nbWFpbC5zdGQuc2VoaXIuZWR1LnRyJyBjbGFzcz0nYm1jaXpnaSc+xZ5FSMSwUiBNQUlMPC9hPjwvbGk+PGxpPjxhIHRhcmdldD0nX2JsYW5rJyBocmVmPSdodHRwczovL21haWwuZ29vZ2xlLmNvbS9hL3N0ZC5zZWhpci5lZHUudHInIGNsYXNzPSdibWNpemdpJz7DlsSeUkVOQ8SwIE1BSUw8L2E+PC9saT48bGk+PGEgdGFyZ2V0PSdfYmxhbmsnIGhyZWY9J2h0dHA6Ly9zYXAuc2VoaXIuZWR1LnRyJyBjbGFzcz0nYm1jaXpnaSc+U0FQPC9hPjwvbGk+PGxpPjxhIHRhcmdldD0nX2JsYW5rJyBocmVmPSdodHRwOi8vY3JtLnNlaGlyLmVkdS50cicgY2xhc3M9J2JtY2l6Z2knPkNSTTwvYT48L2xpPjxsaT48YSB0YXJnZXQ9J19ibGFuaycgaHJlZj0naHR0cDovL2xpYnJhcnkuc2VoaXIuZWR1LnRyJyBjbGFzcz0nYm1jaXpnaSc+S8OcVMOcUEhBTkU8L2E+PC9saT48bGk+PGEgdGFyZ2V0PSdfc2VsZicgaHJlZj0nJyBjbGFzcz0nYm1jaXpnaSc+PC9hPjwvbGk+PGxpPjxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Jy9QYWdlcy8nIGNsYXNzPSdibWNpemdpJz48L2E+PC9saT48bGk+PGEgdGFyZ2V0PSdfc2VsZicgaHJlZj0nL1BhZ2VzLycgY2xhc3M9J2JtY2l6Z2knPjwvYT48L2xpPjxsaT48YSB0YXJnZXQ9J19zZWxmJyBocmVmPScvUGFnZXMvJyBjbGFzcz0nYm1jaXpnaSc+PC9hPjwvbGk+PGxpPjxhIHRhcmdldD0nX3NlbGYnIGhyZWY9Jy9QYWdlcy8nIGNsYXNzPSdibWNpemdpJz48L2E+PC9saT48bGk+PGEgdGFyZ2V0PSdfc2VsZicgaHJlZj0nL1BhZ2VzLyc+PC9hPjwvbGk+ZGQCGQ9kFgICAQ9kFgJmD2QWAgIBDw9kFgYeBWNsYXNzBSJtcy1zYnRhYmxlIG1zLXNidGFibGUtZXggczQtc2VhcmNoHgtjZWxscGFkZGluZwUBMB4LY2VsbHNwYWNpbmcFATBkAh8PZBYCAgEPEBYCHwhoZBQrAQBkAiEPDxYEHwUFEsWexLBGUkVNxLAgVU5VVFRVTR8IaGRkAiMPDxYCHwkCAmQWAmYPZBYCZg8WAh8PAgUWCgIBD2QWAgIBD2QWAmYPFQMcL1BhZ2VzL0hvbWUuYXNweD9QYWdlSUQ9MTM5NgVfc2VsZglBbmEgU2F5ZmFkAgIPZBYCAgEPZBYCZg8VAyYvUGFnZXMvbmV3bG1zL0xNU0hvbWUuYXNweD9QYWdlSUQ9MTM5MgVfc2VsZgNMTVNkAgMPZBYCAgEPZBYCZg8VA2NodHRwOi8vbXkuc2VoaXIuZWR1LnRyL1BhZ2VzL09ncmVuY2lsZXJJY2luL0FrYWRlbWlrLVRha3ZpbS1vZ3JlbmNpbGVyLmFzcHg/UGFnZUlEPTE0MjEmTWVudUlEPTE0NTUFX3NlbGYRQUtBREVNxLBLIFRBS1bEsE1kAgQPZBYCAgEPZBYCZg8VA01odHRwOi8vbXkuc2VoaXIuZWR1LnRyL1BhZ2VzL0Zvcm1sYXIvRm9ybWxhcl9jYWxpc2FubGFyX2ljaW4uYXNweD9QYWdlSUQ9MTQyNQVfc2VsZhdGT1JNTEFSIFZFIETEsExFS8OHRUxFUmQCBQ9kFgICAQ9kFgJmDxUDIS9QYWdlcy9LaW1LaW1kaXIuYXNweD9QYWdlSUQ9MTQyNwVfc2VsZg5LxLBNIEvEsE1ExLBSP2QCJQ9kFgICAg9kFgICAw9kFgICAw8WAh8ACysEAWQCJw8PFgIfCQICZBYCZg9kFgICAQ8PFgIfBQWiAjxsaT48YSB0YXJnZXQ9J19zZWxmJyBocmVmPScvUGFnZXMvQ29udGFjdENlbnRlci5hc3B4JyBjbGFzcz0nYWx0bWVudWNpemdpJz7Dh8OWWsOcTSBNRVJLRVrEsDwvYT48L2xpPjxsaT48YSB0YXJnZXQ9J19zZWxmJyBocmVmPSdodHRwczovL215LnNlaGlyLmVkdS50ci9IRUxQREVTSy9QYWdlcy9kZWZhdWx0LmFzcHgnIGNsYXNzPSdhbHRtZW51Y2l6Z2knPkhFTFBERVNLPC9hPjwvbGk+PGxpPjxhIHRhcmdldD0nX2JsYW5rJyBocmVmPSdodHRwOi8vYWRheS5zZWhpci5lZHUudHIvJz5BREFZPC9hPjwvbGk+ZGQCKQ9kFgICDQ9kFgICCQ9kFgICAQ8PFgIfCGhkFgICAw9kFgJmD2QWAgIDD2QWAgIFDw8WBB4GSGVpZ2h0GwAAAAAAAHlAAQAAAB8HAoABZBYCAgEPPCsACQEADxYEHg1QYXRoU2VwYXJhdG9yBAgeDU5ldmVyRXhwYW5kZWRnZGQYBQULY3RsMDAkY3RsNDIPD2QCAWQFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBTxjdGwwMCRtJGdfZDQ0MWQxMTNfZWViN180ZTMyX2I1Y2VfZmE5ODNiNjY4MWVlJGN0bDAwJGltZ0hvbWUFR2N0bDAwJG0kZ19kNDQxZDExM19lZWI3XzRlMzJfYjVjZV9mYTk4M2I2NjgxZWUkY3RsMDAkUmFkVG9vbFRpcE1hbmFnZXIxBQ9jdGwwMCRMb2dpblZpZXcPD2QCAWQFC2N0bDAwJGN0bDUxDw9kAgFkBUFjdGwwMCRtJGdfZDQ0MWQxMTNfZWViN180ZTMyX2I1Y2VfZmE5ODNiNjY4MWVlJGN0bDAwJGdyZE15Qm94TGlzdA88KwAKAQgCAWSnxGjpHW5rxXxkdpXi+ZLXrz/gdg==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pyXbRlq61sVYahGwtMUZ7x9ZyXelb5S4-zkNTShmoZOHgsJnZ07jFdkIzasZtoKvUa22SEm3J_-lDdZmPwTowTXFAco1&amp;t=634604496479085897" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+var g_wsaLCID = 1033;
+var g_wsaSiteTemplateId = 'STS#0';
+var g_wsaListTemplateId = 850;
+var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002f", webLanguage: 1033, currentLanguage: 1033, webUIVersion:4,pageListId:"{989eb17f-75cc-49a6-ac0f-e67a4cde5956}",pageItemId:364,userId:3944, alertsEnabled:true, siteServerRelativeUrl: "\u002f", allowSilverlightPrompt:'True'};//]]>
+</script>
+<script type="text/javascript">
+<!--
+var L_Menu_BaseUrl="";
+var L_Menu_LCID="1033";
+var L_Menu_SiteTheme="";
+//-->
+</script>
+<script type="text/javascript">
+//<![CDATA[
+document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};var dlc_fvsi = {"DefaultViews":[],"ViewUrls":[],"WebUrl":"\/"};//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+function _spNavigateHierarchy(nodeDiv, dataSourceId, dataPath, url, listInContext, type) {
+    CoreInvoke('ProcessDefaultNavigateHierarchy', nodeDiv, dataSourceId, dataPath, url, listInContext, type, document.forms.aspnetForm, "", "\u002fPages\u002fNewLMS\u002fMybox.aspx");
+
+}
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var _spWebPartComponents = new Object();//]]>
+</script>
+<script type="text/javascript" >
+<!--
+//-->
+</script>
+<script src="/ScriptResource.axd?d=xTWQHtR7op7qMKcpKEs_CE6hLpq2Cl0PZiLsiEqmfcQ0LIV3H-pi8DN-1hXERK7YIpwGmYQR3w5_DLMs3WZVdphfM-uG72kPfXw1Su5RvNS18XqVJ_GIpfPFgGaoDSqokDgEorUWqPJi0zfom0pdkP4Sez01&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=gg8BvCDcgsnCxNnsBmnAsyQVyH7jkk2unEd1o91TgPHkqPRAa2LETH3sFrg_d-PTPAWzVMilijwDhNK0TSU45Xtb5ryBRKcVSkCgziLDDm2LqTB_4VeAv85uketZzlDDEUMo1HFgTV0TSv8aLXOWkvOTQU6uFufVVbqU3hAdYL3B_NwG0&amp;t=ffffffffb868b5f4" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=lfD05z4WM3L4wsW4ybEbPsNpDWILLHUo6Wv_goEmz0STW9RwLSDktiXwNpn8L6t0akbwLq6VicVlZARah4xWp9NvTFL5P_X8Ldw5vTWtLDz1AUtMThY8i_BXDA1pNvm4GfZxX0GfcfX_yXbBdtN7iax55Uopyk_eCIQ0Ad9IJ74cHJ3x0&amp;t=b711f4d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=s4RYx6nmo6s0B-DJJxZWnM0k8M6r_eXNws0TNFgEmPH5CcY4GIwdhRKa4cOA4q1uRJNiIbrlItAmL4SDsBdPALOmLiNnOG2mpdIvCb5X_7gpIE-JtHHzvfm0eUK4FbC86bDA26_4-NPkRXc7YY84aDkBfZl1jw7aip7HmiFsXuzNY1b80&amp;t=b711f4d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=UOg1wmWOY47TEBX3opNq-rmawSVJXaLMGx2PKD1SQiM831wqyg2BjCa_UVAh6y8vC5Uh_p2AwCISW3e3WRzWenWnno-khzK_Xtx65usNiJZX2stkH3KaWedOySYBoncVcGDYn9neZ-83pSdTBkOyGQXoHuYxxuwPHhQD1peMbexhvpJG3DN84PKIcIJgvS02IUMyWw2&amp;t=b711f4d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Ak0SEbBT4xiL4Y5sCcTGYc2BECc0UnDqhoxGw6ZNs510efW47SYAYqqbsupKbK8qNJAmhO5wwA6-7XSM6UuPf5yC-blKspS8qF-DkEMFYqpPThxCzcA45Mtuc3F5KtcXXhuRwjdYHCR6oohxzNGEnFN0Ksqp1HkGDDtHtbIq5G8bJN1299nWJe9v_OkAB4bcECt1Aw2&amp;t=b711f4d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=KbgESplaHCByIvsPjmcdSUhWVeKIDYExOrovq0Ngvb_FRH0-k5Z5VpqU9kkzxZC2i2iPabpX6Pl5xuw2pEeBD0DwBzLsGwqgUTpIzNBogvmGg0mVq5qMudwaf6WeX4d-KAjXI0YmgJ4sgxhsHaj8eiyConNSu2MaDBAUnqr2wgkUs-2pBdcZjSgqS8P3jpRRT9TIAw2&amp;t=b711f4d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=sBhRiIxMujUUk6m861bZmixtXsOldcRZ6JD6lawaw203DWxlHq8XnTnCO60p5dKOAE24RUGIOz_Yu_4DSFtC9Z2ON_XSB56_BJxXhqh8DXFO7GkV1f5o-iI2CkONAPXgQX3KedCy6yZlndl6FsVdMr6ZVfFjTVZCTwIUnDDd703d7P4CJxc-D774iz64_joyeOvMQA2&amp;t=b711f4d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=p6scS3ZSyByI7PEak8L3NLNnuGsJ-5ByJ6aOBi10KJDxg6QflbyOqQmo1C8_589nlJ0Mwn3Z5KLCXPPxYLK42ZwO5F3T6c-5TQjbEY88c2UpSJhPnWUuUm9xciPl3ZG3Xy4TIaAsIoBWgjyAZolSV_zkiz5CeI4Q9FX1GTiSjhrIecu60&amp;t=b711f4d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=yqHfa3Rg5xbizh6YWDCOGsm9Z6vhq4d15z6t-Wr_m4UKncU4QnynUdQXs652_K3KRxz2hYMqWiJXxAgz4I_x3l1sjWhnAGUq2C05n8CW4UfYqth7W26mQfQAP9dihgHugtcMZGV1NwJfSXCF8-OMBc3-1edlMxULdox8UAkQH7NwJ_TcaSykrMQJmsbPP1dZ-rjFzw2&amp;t=b711f4d" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=43Wu4B82iwQiHzvxB4LZETXoNr5lz6WjRAl_kZuCUVUVdxOt3mlQJOgm16zVzjjcxRA75VIsd7WNBR7x79ae8Jxa-MmMMbt7k_k1_BQ_mx0wr7eDMxyOpqb4NvJ2Q7-wxompIuorRHU3eg1jud7HNjPXX64tCXVwarHCVeR9y2nF4uk16t5yTQJtIij4rQiEz3dyJQ2&amp;t=b711f4d" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();function WebForm_OnSubmit() {
+UpdateFormDigest('\u002f', 1440000);if (typeof(vwpcm) != 'undefined') {vwpcm.SetWpcmVal();};if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;};
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWLwLxuLCdBwKpn5bCCwLNrvW5AwK9+p7tAgKM+9mbBwLRuPatAgKCgKF3Ase9vYkMAvi6uo4FAunos8oGAuCHuaQKAuCH5acKAuCH7acKAuCH2acKAuOH4acKAuOH6acKAuOH2acKAuKH1acKAp/Tsp4EAubK2eUFAuu60I4JArz90/4BAqHE9YAJAqHEhfgMAvmezlECocStlQQCtarP+AkCopzssAQCoLXYjw0C+6PE4gYCs5b1ngIC6IGfjw4Co6GX+wMC4LvZvg0CtO2H+wYC2Y6/hQwC6orAoAQC/7LOTgKP6ZvwBAKi+dHFAgK5ruz0AwL+2eaSAgKV6b/SDwKvpLr/BQLT9v2lBwL4lNLIDAKou9rFCEE+fBQkInikn3c/jW4xI26Q3GJi" />
+</div>
+  <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['tctl00$panelZone','tctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$pnlUpdate','tctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$RadToolTipManager1RTMPanel'], [], ['ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnOpenFolder','ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnSearch','ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnDowloadFileRefresh','ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnDownloadDoc'], 90);
+//]]>
+</script>
+
+	
+<noscript><div class='noindex'>You may be trying to access this site from a secured browser on the server. Please enable scripts and reload this page.</div></noscript>
+<div id="TurnOnAccessibility" style="display:none" class="s4-notdlg noindex">
+	<a id="linkTurnOnAcc" href="#" class="ms-TurnOnAcc" onclick="SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;">
+	Turn on more accessible mode</a>
+</div>
+<div id="TurnOffAccessibility" style="display:none" class="s4-notdlg noindex">
+	<a id="linkTurnOffAcc" href="#" class="ms-TurnOffAcc" onclick="SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;">
+	Turn off more accessible mode</a>
+</div>
+<div class="s4-notdlg s4-skipribbonshortcut noindex">
+	<a href="javascript:;" onclick="javascript:this.href='#startNavigation';" class="ms-SkiptoNavigation" accesskey="Y">
+	Skip Ribbon Commands</a>
+</div>
+<div class="s4-notdlg noindex">
+	<a href="javascript:;" onclick="javascript:this.href='#mainContent';" class="ms-SkiptoMainContent" accesskey="X">
+	Skip to main content</a>
+</div>
+<a id="HiddenAnchor" href="javascript:;" style="display:none;"></a>
+
+
+
+
+          <div id="s4-workspace">
+     
+		<div id="s4-bodyContainer">
+		
+		<!--------------------------------------benim eklediklerim  --------------------------->
+		
+		
+		<div id="ust_cizgi" class="s4-notdlg"></div>
+<div id="all">
+  <div id="baslik" class="s4-notdlg">
+    <div id="baslik_sol"><a href="http://my.sehir.edu.tr/"><img src="/images/my_img/logo.png" width="153" height="62" alt="my.sehir" border="0" /></a></div>
+    <div id="baslik_sag">
+      <div id="mysehir"><img src="/images/my_img/mysehir.png" width="186" height="26" alt="mysehir" /></div>
+      <div id="baslik_menuwebpart">
+      
+<div id="ctl00_g_b82ba06c_acde_4775_a8bb_b8c5948c3f8a" __MarkupType="vsattributemarkup" __WebPartId="{b82ba06c-acde-4775-a8bb-b8c5948c3f8a}" WebPart="true">
+	
+<div id="baslik_menu">
+    <ul>
+        <span id="ctl00_g_b82ba06c_acde_4775_a8bb_b8c5948c3f8a_ctl00_lblheader"><li><a target='_blank' href='http://gmail.std.sehir.edu.tr' class='bmcizgi'>ŞEHİR MAIL</a></li><li><a target='_blank' href='https://mail.google.com/a/std.sehir.edu.tr' class='bmcizgi'>ÖĞRENCİ MAIL</a></li><li><a target='_blank' href='http://sap.sehir.edu.tr' class='bmcizgi'>SAP</a></li><li><a target='_blank' href='http://crm.sehir.edu.tr' class='bmcizgi'>CRM</a></li><li><a target='_blank' href='http://library.sehir.edu.tr' class='bmcizgi'>KÜTÜPHANE</a></li><li><a target='_self' href='' class='bmcizgi'></a></li><li><a target='_self' href='/Pages/' class='bmcizgi'></a></li><li><a target='_self' href='/Pages/' class='bmcizgi'></a></li><li><a target='_self' href='/Pages/' class='bmcizgi'></a></li><li><a target='_self' href='/Pages/' class='bmcizgi'></a></li><li><a target='_self' href='/Pages/'></a></li></span>
+    </ul>
+</div>
+
+</div>
+            
+		</div>
+<div id="ara">
+      <div id="s4-searcharea" class="s4-search s4-rp">
+						
+							<table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td valign="top"><div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ1" width="100%" OnlyForMePart="true" allowDelete="false" style="" ><div id="SRSB"> <div>
+			<input name="ctl00$PlaceHolderSearchArea$ctl01$ctl00" type="hidden" id="ctl00_PlaceHolderSearchArea_ctl01_ctl00" value="https://my.sehir.edu.tr" /><table class="ms-sbtable ms-sbtable-ex s4-search" cellpadding="0" cellspacing="0" border="0">
+				<tr class="ms-sbrow">
+					<td class="ms-sbcell"><input name="ctl00$PlaceHolderSearchArea$ctl01$S3031AEBB_InputKeywords" type="text" value="Search this site..." maxlength="200" id="ctl00_PlaceHolderSearchArea_ctl01_S3031AEBB_InputKeywords" accesskey="S" title="Search..." class="ms-sbplain" alt="Search..." onkeypress="javascript: return S3031AEBB_OSBEK(event);" onfocus="if (document.getElementById('ctl00_PlaceHolderSearchArea_ctl01_ctl04').value =='0') {this.value=''; if (this.className == 's4-searchbox-QueryPrompt') this.className = ''; else this.className = this.className.replace(' s4-searchbox-QueryPrompt',''); document.getElementById('ctl00_PlaceHolderSearchArea_ctl01_ctl04').value=1;}" onblur="if (this.value =='') {this.value='Search this site...'; if (this.className.indexOf('s4-searchbox-QueryPrompt') == -1) this.className += this.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; document.getElementById('ctl00_PlaceHolderSearchArea_ctl01_ctl04').value = '0'} else {document.getElementById('ctl00_PlaceHolderSearchArea_ctl01_ctl04').value='1';}" style="width:170px;" /></td><td class="ms-sbgo ms-sbcell"><a id="ctl00_PlaceHolderSearchArea_ctl01_S3031AEBB_go" title="Search" href="javascript:S3031AEBB_Submit()"><img title="Search" onmouseover="this.src='\u002f_layouts\u002fimages\u002fgosearchhover15.png'" onmouseout="this.src='\u002f_layouts\u002fimages\u002fgosearch15.png'" class="srch-gosearchimg" alt="Search" src="/_layouts/images/gosearch15.png" style="border-width:0px;" /></a></td><td class="ms-sbLastcell"></td>
+				</tr>
+			</table><input name="ctl00$PlaceHolderSearchArea$ctl01$ctl04" type="hidden" id="ctl00_PlaceHolderSearchArea_ctl01_ctl04" value="0" />
+		</div></div></div></td>
+	</tr>
+</table>
+						
+						<span class="s4-help" style="display:none;">
+								<span style="height:17px;width:17px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust"><a href="../../_catalogs/masterpage/#" id="ctl00_TopHelpLink" style="height:17px;width:17px;display:inline-block;" onclick="TopHelpButtonClick('HelpHome');return false" accesskey="6" title="Help (new window)"><img src="/_layouts/images/fgimg.png" style="left:-0px !important;top:-309px !important;position:absolute;" align="absmiddle" border="0" alt="Help (new window)" /></a></span>
+						</span>
+					</div>
+      
+      </div>
+    </div>
+  </div>
+  <div id="ust_menu"  class="s4-notdlg">
+  <div style="width:262px; background-color:#757575; float:left">
+  
+    <div id="ust_menu_sol">
+    		
+	 
+	<span style="display:none"><menu type='ServerMenu' id="zz1_ID_PersonalActionMenu" largeiconmode="true"><ie:menuitem id="zz2_ID_PersonalInformation" type="option" iconSrc="/_layouts/images/menuprofile.gif" onMenuClick="javascript:GoToPage('\u002f_layouts\u002fuserdisp.aspx?Force=True\u0026ID=' + _spUserId);return false;" text="My Settings" description="Update your user information, regional settings, and alerts." menuGroupId="100"></ie:menuitem>
+<ie:menuitem id="zz3_ID_LoginAsDifferentUser" type="option" onMenuClick="javascript:LoginAsAnother('\u002f_layouts\u002fcloseConnection.aspx?loginasanotheruser=true', 0)" text="Sign in as Different User" description="Login with a different account." menuGroupId="200"></ie:menuitem>
+<ie:menuitem id="zz4_ID_Logout" type="option" onMenuClick="STSNavigate2(event,'/_layouts/SignOut.aspx');" text="Sign Out" description="Logout of this site." menuGroupId="200"></ie:menuitem>
+<ie:menuitem id="ctl00_IdWelcome_ExplicitLogout_ctl00_ctl01" type="option" iconSrc="/_layouts/images/PasswordWebpart/password.jpg" onMenuClick="STSNavigate2(event,'/Pages/AccountSettings.aspx');" text="Account Settings" description="Change your Security Question and Password" menuGroupId="2147483647"></ie:menuitem>
+</menu></span><span  id="zz5_Menu_t" class="ms-SPLink ms-SpLinkButtonInActive ms-welcomeMenu" title="Open Menu" onmouseover="MMU_PopMenuIfShowing(this);MMU_EcbTableMouseOverOut(this, true)" hoveractive="ms-SPLink ms-SpLinkButtonActive ms-welcomeMenu" hoverinactive="ms-SPLink ms-SpLinkButtonInActive ms-welcomeMenu" onclick=" CoreInvoke('MMU_Open',byid('zz1_ID_PersonalActionMenu'), MMU_GetMenuFromClientId('zz5_Menu'),event,false, null, 0); return false;" foa="MMU_GetMenuFromClientId('zz5_Menu')" oncontextmenu="ClkElmt(this); return false;" style="white-space:nowrap"><a class="ms-menu-a" id="zz5_Menu" accesskey="W" href="javascript:;" style="cursor:pointer;white-space:nowrap;" onfocus="MMU_EcbLinkOnFocusBlur(byid('zz1_ID_PersonalActionMenu'), this, true);" onkeydown="MMU_EcbLinkOnKeyDown(byid('zz1_ID_PersonalActionMenu'), MMU_GetMenuFromClientId('zz5_Menu'), event);" onclick=" CoreInvoke('MMU_Open',byid('zz1_ID_PersonalActionMenu'), MMU_GetMenuFromClientId('zz5_Menu'),event,false, null, 0); return false;" oncontextmenu="ClkElmt(this); return false;" menutokenvalues="MENUCLIENTID=zz5_Menu,TEMPLATECLIENTID=zz1_ID_PersonalActionMenu" serverclientid="zz5_Menu"><span>Nejat Gunaydin</span><img src="/_layouts/images/blank.gif" style='border:0px' alt="Use SHIFT+ENTER to open the menu (new window)."/></a><span style="height:3px;width:5px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust ms-viewselector-arrow"><img src="/_layouts/images/fgimg.png" alt="Open Menu" style="border-width:0px;position:absolute;left:-0px !important;top:-491px !important;" /></span></span><script type="text/javascript">
+//<![CDATA[
+var _spUserId=3944;
+//]]>
+</script>
+
+
+			
+<script type ="text/javascript">
+// <![CDATA[
+function OnSelectionChange(value)
+{
+	var today = new Date();
+	var oneYear = new Date(today.getTime() + 365 * 24 * 60 * 60 * 1000);
+	var url = window.location.href;
+	document.cookie = "lcid=" + value + ";path=/;expires=" + oneYear.toGMTString();
+	window.location.href = url;
+}
+// ]]>
+</script>
+
+
+			
+			<span class="bmysiyah forget">
+			</span>
+
+			
+	</div>
+	</div>
+    <div id="ust_menu_sag">
+  
+<div id="ctl00_g_487dee24_b21e_4984_8775_1bee9fbbd45e" __MarkupType="vsattributemarkup" __WebPartId="{487dee24-b21e-4984-8775-1bee9fbbd45e}" WebPart="true">
+	
+        <table cellpadding="0" cellspacing="0" border="0">
+            <tr>
+    
+        <td>
+            <div id="ctl00_g_487dee24_b21e_4984_8775_1bee9fbbd45e_ctl00_rptTopMenu_ctl01_linkMenu" class="subPageHeaderMenuIteme">
+                <a href='/Pages/Home.aspx?PageID=1396'
+                    target='_self'>
+                    Ana Sayfa</a>
+                <input type="hidden" name="ctl00$g_487dee24_b21e_4984_8775_1bee9fbbd45e$ctl00$rptTopMenu$ctl01$hfID" id="ctl00_g_487dee24_b21e_4984_8775_1bee9fbbd45e_ctl00_rptTopMenu_ctl01_hfID" value="1396" />
+            </div>
+        </td>
+    
+        <td>
+            <div id="ctl00_g_487dee24_b21e_4984_8775_1bee9fbbd45e_ctl00_rptTopMenu_ctl02_linkMenu" class="subPageHeaderMenuIteme">
+                <a href='/Pages/newlms/LMSHome.aspx?PageID=1392'
+                    target='_self'>
+                    LMS</a>
+                <input type="hidden" name="ctl00$g_487dee24_b21e_4984_8775_1bee9fbbd45e$ctl00$rptTopMenu$ctl02$hfID" id="ctl00_g_487dee24_b21e_4984_8775_1bee9fbbd45e_ctl00_rptTopMenu_ctl02_hfID" value="1392" />
+            </div>
+        </td>
+    
+        <td>
+            <div id="ctl00_g_487dee24_b21e_4984_8775_1bee9fbbd45e_ctl00_rptTopMenu_ctl03_linkMenu" class="subPageHeaderMenuIteme">
+                <a href='http://my.sehir.edu.tr/Pages/OgrencilerIcin/Akademik-Takvim-ogrenciler.aspx?PageID=1421&MenuID=1455'
+                    target='_self'>
+                    AKADEMİK TAKVİM</a>
+                <input type="hidden" name="ctl00$g_487dee24_b21e_4984_8775_1bee9fbbd45e$ctl00$rptTopMenu$ctl03$hfID" id="ctl00_g_487dee24_b21e_4984_8775_1bee9fbbd45e_ctl00_rptTopMenu_ctl03_hfID" value="1424" />
+            </div>
+        </td>
+    
+        <td>
+            <div id="ctl00_g_487dee24_b21e_4984_8775_1bee9fbbd45e_ctl00_rptTopMenu_ctl04_linkMenu" class="subPageHeaderMenuIteme">
+                <a href='http://my.sehir.edu.tr/Pages/Formlar/Formlar_calisanlar_icin.aspx?PageID=1425'
+                    target='_self'>
+                    FORMLAR VE DİLEKÇELER</a>
+                <input type="hidden" name="ctl00$g_487dee24_b21e_4984_8775_1bee9fbbd45e$ctl00$rptTopMenu$ctl04$hfID" id="ctl00_g_487dee24_b21e_4984_8775_1bee9fbbd45e_ctl00_rptTopMenu_ctl04_hfID" value="1425" />
+            </div>
+        </td>
+    
+        <td>
+            <div id="ctl00_g_487dee24_b21e_4984_8775_1bee9fbbd45e_ctl00_rptTopMenu_ctl05_linkMenu" class="subPageHeaderMenuIteme">
+                <a href='/Pages/KimKimdir.aspx?PageID=1427'
+                    target='_self'>
+                    KİM KİMDİR?</a>
+                <input type="hidden" name="ctl00$g_487dee24_b21e_4984_8775_1bee9fbbd45e$ctl00$rptTopMenu$ctl05$hfID" id="ctl00_g_487dee24_b21e_4984_8775_1bee9fbbd45e_ctl00_rptTopMenu_ctl05_hfID" value="1427" />
+            </div>
+        </td>
+    
+        </tr> </table>
+    
+
+</div>
+  
+    
+  </div>
+    <div id="tren"><a href="#">TR</a> | <a href="#">EN</a></div>
+   </div>
+   <div id="s4-statusbarcontainer"class="s4-notdlg">
+				<div id="pageStatusBar" class="s4-status-s1">
+				</div>
+			</div>
+  <div id="icerik">
+       
+    		<div class='s4-ba'><div class='ms-bodyareacell'>	
+    
+    				<div id="ctl00_MSO_ContentDiv">
+						<a name="mainContent"></a>
+						
+	
+	
+			<div class="article article-body" style="margin:0px!important;padding:0px!important;">
+				
+				<div class="article-content icerik_back" style="margin:0px!important;padding:0px 0px!important; background-position:left 60px;">
+			
+				
+					<div id="ctl00_PlaceHolderMain_ctl01_ctl01_label" style='display:none'>Page Content</div><div id="ctl00_PlaceHolderMain_ctl01_ctl01__ControlWrapper_RichHtmlField" class="ms-rtestate-field" style="display:inline" aria-labelledby="ctl00_PlaceHolderMain_ctl01_ctl01_label"><div class="ms-rtestate-read ms-rte-wpbox"><div class="ms-rtestate-notify  ms-rtestate-read bf2a5f37-b79a-4a03-9fcc-dda5355ca7fa" id="div_bf2a5f37-b79a-4a03-9fcc-dda5355ca7fa"><table style='width:100%' cellpadding='0' cellspacing='0'><tr><td id="MSOZoneCell_WebPartctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td valign="top"><div WebPartID="b2441aa6-038f-45c0-9933-9a0fb3b8c19c" WebPartID2="bf2a5f37-b79a-4a03-9fcc-dda5355ca7fa" HasPers="false" id="WebPartctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa" width="100%" class="ms-WPBody" allowRemove="false" allowDelete="false" allowExport="false" style="" ><div id="ctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa">
+			
+
+
+<script type="text/javascript">
+    $(document).ready(function () {
+
+        $('#' + 'ctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa_ctl00_drpUserType' + ':visible').length > 0
+        {
+            $('#' + 'ctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa_ctl00_drpUserType').css('width', '95px');
+            $('div.msj_box').css('width', '300px');
+        }
+
+    });
+
+    $(document).ready(function () {
+
+        try {
+
+            $('.listbox').msDropDown({ mainCSS: 'drpdwn' }).data("dd");
+            // $('#' + 'ctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa_ctl00_drpTerms').msDropDown();
+
+        } catch (e) {
+
+        }
+
+    });
+</script>
+<div id="lms_all">
+    <div id="lms_ust">
+        <select name="ctl00$m$g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa$ctl00$drpTerms" onchange="javascript:setTimeout('__doPostBack(\'ctl00$m$g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa$ctl00$drpTerms\',\'\')', 0)" id="ctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa_ctl00_drpTerms" class="listbox">
+				<option selected="selected" value="78">2015-2016 - Spring Semester</option>
+				<option value="75">2015-2016 - Fall Semester</option>
+				<option value="73">2014-2015 - Summer Semester</option>
+				<option value="70">2014-2015 - Spring Semester</option>
+				<option value="66">2014-2015 - Fall Semester</option>
+				<option value="64">2013-2014 - Summer Semester</option>
+				<option value="60">2013-2014 - Spring Semester</option>
+				<option value="51">2013-2014 - Fall Semester</option>
+
+			</select>
+        <select name="ctl00$m$g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa$ctl00$drpCourseGroups" onchange="javascript:setTimeout('__doPostBack(\'ctl00$m$g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa$ctl00$drpCourseGroups\',\'\')', 0)" id="ctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa_ctl00_drpCourseGroups" class="listbox">
+				<option value="RootFolder">My Folder</option>
+				<option value="7732">CS 240 01</option>
+				<option value="7308">EECS 202 01</option>
+				<option value="7617">EECS 218 01</option>
+				<option selected="selected" value="7312">ENGR 212 01</option>
+				<option value="7296">ENGR 251 01</option>
+				<option value="7413">LIFE 102 01</option>
+
+			</select>
+        
+        <div class="msj_box">
+        </div>
+    </div>
+    <div id="lms_menu">
+        <ul>
+            <li>
+                <a id="ctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa_ctl00_lnkWelcome" lnkName="Welcome" href="javascript:__doPostBack('ctl00$m$g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa$ctl00$lnkWelcome','')"> Welcome </a>
+            </li>
+            <li>
+                <a id="ctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa_ctl00_lnkGradeBook" lnkName="GradeBook" href="javascript:__doPostBack('ctl00$m$g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa$ctl00$lnkGradeBook','')"> GradeBook </a>
+            </li>
+            <li>
+                <a id="ctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa_ctl00_lnkAttandance" lnkName="Attandance" href="javascript:__doPostBack('ctl00$m$g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa$ctl00$lnkAttandance','')"> Attendance </a>
+            </li>
+            <li>
+                <a id="ctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa_ctl00_lnkAssignment" lnkName="Assignment" href="javascript:__doPostBack('ctl00$m$g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa$ctl00$lnkAssignment','')"> Assignment </a>
+            </li>
+            <li>
+                <a id="ctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa_ctl00_lnkMybox" class="lms_menu_aktiv" lnkName="MyBox" href="javascript:__doPostBack('ctl00$m$g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa$ctl00$lnkMybox','')"> MyBox </a>
+            </li>
+            <li>
+                </li>
+            <li>
+                </li>
+            <li>
+                
+            </li>
+            <li>
+                
+            </li>
+            <li>
+                
+            </li>
+            <li>
+                
+            </li>
+            
+            <li>
+                <a id="ctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa_ctl00_lnkHelp" lnkName="Help" lnkPermission="teacher" href="javascript:__doPostBack('ctl00$m$g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa$ctl00$lnkHelp','')"> Help </a></li>
+        </ul>
+    </div>
+    <div id="lms_icerik">
+    </div>
+</div>
+
+		</div></div></td>
+	</tr>
+</table></td></tr></table></div>
+<div id="vid_bf2a5f37-b79a-4a03-9fcc-dda5355ca7fa" style="display:none"></div></div>
+<div class="ms-rtestate-read ms-rte-wpbox"><div class="ms-rtestate-notify  ms-rtestate-read d441d113-eeb7-4e32-b5ce-fa983b6681ee" id="div_d441d113-eeb7-4e32-b5ce-fa983b6681ee"><table style='width:100%' cellpadding='0' cellspacing='0'><tr><td id="MSOZoneCell_WebPartctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee" valign="top" class="s4-wpcell-plain"><table class="s4-wpTopTable" border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+		<td valign="top"><div WebPartID="3fba4d70-66ea-4b9e-9f3f-4612685ce084" WebPartID2="d441d113-eeb7-4e32-b5ce-fa983b6681ee" HasPers="false" id="WebPartctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee" width="100%" class="ms-WPBody" allowRemove="false" allowDelete="false" allowExport="false" style="" ><div id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee">
+			
+<script src="/_layouts/LMS_V2/MyBox/jquery.cookies.2.2.0.min.js" type="text/javascript"></script>
+<style type="text/css">
+    .hidebutton
+    {
+        z-index: -1000;
+        position: absolute;
+        top: -1000px;
+    }
+    .bar
+    {
+        border-color: #82CFFA #E7F2FB #96C4EA;
+        border-style: solid;
+        border-width: 1px;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 0 0 #000000 inset;
+        line-height: 41px;
+        height: 41px;
+    }
+    .bar:hover
+    {
+        border-color: #82CFFA #E7F2FB #96C4EA;
+        border-style: solid;
+        border-width: 1px;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 0 0 #000000 inset;
+        line-height: 41px;
+        height: 41px;
+        background-color: #f0f9ff;
+    }
+    
+    .barhead
+    {
+        border-color: #82CFFA #E7F2FB #96C4EA;
+        border-style: solid;
+        border-width: 1px;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 0 0 #000000 inset;
+        line-height: 41px;
+        height: 41px;
+        background-color: #f0f9ff;
+    }
+    .barhead a
+    {
+        color: Gray !important;
+        text-decoration: none;
+    }
+    .barhead a:hover
+    {
+        text-decoration: underline;
+    }
+    .bar_active a
+    {
+        color: White !important;
+    }
+    .bar_active
+    {
+        border-color: #82CFFA #E7F2FB #96C4EA;
+        border-style: solid;
+        border-width: 1px;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, 0.12), 0 0 0 #000000 inset;
+        line-height: 41px;
+        height: 41px;
+        color: White;
+        background-color: #388ec8;
+    }
+    .search_button
+    {
+        vertical-align: middle;
+    }
+    .rtWrapper
+    {
+        margin-top: 8px !important;
+    }
+    .rtWrapperContent
+    {
+        font-size: 10px !important;
+    }
+</style>
+<script type="text/javascript">
+    function setFormSubmitToFalse() { // download işleminden sonra response'un durmaması için
+        window.setTimeout(function () { _spFormOnSubmitCalled = false; }, 10);
+    }
+
+    function selectPanel(pnl, index, evt) {
+
+        if (evt.ctrlKey) {
+
+            pnl.parentElement.parentElement.className = "bar_active";
+
+            document.getElementById('ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_hdnMultiSelect').value = 1;
+        }
+        else {
+            document.getElementById('ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_hdnMultiSelect').value = 0;
+        }
+
+        document.getElementById('ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_hdnSelectedIndex').value = index;
+        document.getElementById('ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_btnSelectedIndex').click();
+
+    }
+
+    function openFolder(pnl, URL) {
+
+        document.getElementById('ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_hdnFolderURL').value = URL;
+        document.getElementById('ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_btnOpenFolder').click();
+
+    }
+    function openFile(URL) {
+
+        //window.open(URL, '_blank');
+        document.getElementById('ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_hfUrl').value = URL;
+        document.getElementById('ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_btnDownloadDoc').click();
+        window.setTimeout(function () { _spFormOnSubmitCalled = false; }, 10); // download işleminden sonra response'un durmaması için
+    }
+
+    function openDialogBox(URL, Title) {
+
+        var options = SP.UI.$create_DialogOptions();
+
+        var options = {
+            title: Title,
+            autoSize: true,
+            allowMaximize: true,
+            url: URL,
+            dialogReturnValueCallback: refreshIt
+        };
+        SP.UI.ModalDialog.showModalDialog(options);
+
+    }
+    function refreshIt() {
+        document.getElementById('ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_btnOpenFolder').click();
+    }
+
+    function openDialogBoxRefresh(URL, Title) {
+
+        var options = SP.UI.$create_DialogOptions();
+
+        var options = {
+            title: Title,
+            autoSize: true,
+            allowMaximize: true,
+            url: URL,
+            dialogReturnValueCallback: refresh
+        };
+        SP.UI.ModalDialog.showModalDialog(options);
+
+    }
+    function refresh() {
+        document.getElementById('ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_btnRefreshFolder').click();
+    }
+
+
+    function openDialogBoxDownload(URL, Title) {
+
+        var options = SP.UI.$create_DialogOptions();
+
+        var options = {
+            title: Title,
+            autoSize: true,
+            allowMaximize: true,
+            url: URL
+        };
+        //SP.UI.ModalDialog.showModalDialog(options);
+
+        SP.UI.ModalDialog.commonModalDialogOpen(URL, options, null, null); //Open pop-up
+        var millisecondsToWait = 2000; //Run every 2 seconds to check for cookie
+        var intrvl = setInterval(function () {
+            if (jaaulde.utils.cookies.get('folderdownloadcookie') != null) { //check if cookie is found
+                jaaulde.utils.cookies.del('folderdownloadcookie'); //Delete the cookie
+                SP.UI.ModalDialog.commonModalDialogClose(); //Close the pop-up
+                clearInterval(intrvl); //Clear timer 
+                document.getElementById('ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_btnDowloadFileRefresh').click();
+            }
+        }, millisecondsToWait);
+    }
+
+
+
+    function KeyEnter() {
+
+        var c = window.event.keyCode;
+        if (c == 13) {
+
+            document.getElementById('ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_btnSearch').click();
+        }
+    }
+
+
+    function showToolTip(element) {
+
+        var tooltipManager = $find("ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_RadToolTipManager1");
+
+        //If the user hovers the image before the page has loaded, there is no manager created
+        if (!tooltipManager) return;
+
+        //Find the tooltip for this element if it has been created 
+        var tooltip = tooltipManager.getToolTipByElement(element);
+
+        //Create a tooltip if no tooltip exists for such element 
+        if (!tooltip) {
+            tooltip = tooltipManager.createToolTip(element);
+
+
+            var src = element.getAttribute("tooltext", 2);
+            var country = src;
+            tooltip.set_content(country);
+        }
+
+        //Let the tooltip's own show mechanism take over from here - execute the onmouseover just once
+        element.onmouseover = null;
+
+        //show the tooltip
+        setTimeout(function () {
+            tooltip.show();
+        }, 2);
+    } 
+
+
+</script>
+<div id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_pnlMainContent">
+				
+
+<div id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_pnlMyBox" style="background-color: White">
+    <div id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_pnlUpdate">
+					
+            <div style="width: 952px; float: left">
+                <div style="float: left; width: 660px">
+                    <input type="image" name="ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$imgHome" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_imgHome" src="../../_CONTROLTEMPLATES/LMS_V2/LMS_MyBox/_layouts/LMS_V2/Mybox/img/SehirBoxLogo.png" align="absmiddle" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$imgHome&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" style="border-width:0px;" />
+                    <span id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_lblNavigation"><a style='cursor:pointer' onclick="openFolder(this,'6e9589d4-ec47-4d63-bdce-38ec0f0b00a7')">ENGR 212 01</a> ><a style='cursor:pointer' onclick="openFolder(this,'00a8eb53-afc8-4951-aa9e-a554dbf2a40a')">Lectures</a> >Week 13</span>
+                </div>
+                <div style="float: right; width: 290px">
+                    <div id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_RadToolTipManager1" style="display:none;position:absolute;">
+						<!-- 2010.3.1215.35 --><div id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_RadToolTipManager1RTMPanel">
+
+						</div><input id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_RadToolTipManager1_ClientState" name="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_RadToolTipManager1_ClientState" type="hidden" />
+					</div>
+                    <span id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_lblFolderOption"></span>
+                    
+                    
+                    
+                    <table cellpadding="0" cellspacing="0" style="vertical-align: middle; float: right">
+                        <tr>
+                            <td>
+                                <span id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_radtxtSearch_wrapper" class="RadInput RadInput_Default" style="white-space:normal;"><input value="MyBox'da Ara" type="text" size="20" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_radtxtSearch_text" name="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_radtxtSearch_text" class="riTextBox riEmpty" onKeyPress="KeyEnter()" style="width:125px;" /><input id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_radtxtSearch" name="ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$radtxtSearch" class="rdfd_" style="visibility:hidden;margin:-18px 0 0 -1px;width:1px;height:1px;overflow:hidden;border:0;padding:0;" type="text" value="" /><input id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_radtxtSearch_ClientState" name="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_radtxtSearch_ClientState" type="hidden" /></span>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <br />
+            <br />
+            <br />
+            <div id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_pnlHeaderNonSelected" class="barhead" style="width:952px;">
+						
+                <div style="width: 400px; float: left">
+                    <span style="margin-left: 10px">Name</span>
+                </div>
+                <div style="float: left; width: 150px">
+                    Created
+                </div>
+                <div style="float: left; width: 150px">
+                    Edited
+                </div>
+                <div style="float: left; width: 150px">
+                    Edited by
+                </div>
+                <div style="float: left; width: 100px">
+                    Size
+                </div>
+            
+					</div>
+            
+            <div>
+						<table cellspacing="0" rules="rows" border="0" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_grdMyBoxList" style="border-width:0px;border-style:None;border-collapse:collapse;">
+							<tr class="bar">
+								<td style="width:950px;">
+                            <div id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_grdMyBoxList_ctl02_pnlListItem" onclick="selectPanel(this,0,event)">
+									
+                                <table cellpadding="0" cellspacing="0" width="950px">
+                                    <tr>
+                                        <td style="width: 400px">
+                                            <img id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_grdMyBoxList_ctl02_imgFile" onclick="openFile('https://my.sehir.edu.tr/CourseGroupDropBox/78/7312/Lectures/Week 13/ENGR 212 - Week 13.pdf')" src="../../_CONTROLTEMPLATES/LMS_V2/_layouts/images/lg_icpdf.png" style="height:30px;border-width:0px;vertical-align: middle; margin-right: 10px; margin-left: 10px; cursor: pointer" />
+                                            <a onclick="openFile('https://my.sehir.edu.tr/CourseGroupDropBox/78/7312/Lectures/Week 13/ENGR 212 - Week 13.pdf');" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_grdMyBoxList_ctl02_lnkFile" URL="https://my.sehir.edu.tr/CourseGroupDropBox/78/7312/Lectures/Week 13/ENGR 212 - Week 13.pdf" Type="File" GUID="216eeda4-b0a2-4b97-801f-dd301cd26708" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$grdMyBoxList$ctl02$lnkFile&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))" style="color:Gray;">ENGR 212 - Week 13.pdf</a>
+                                        </td>
+                                        <td style="width: 150px">
+                                            09/05/2016 20:30:39
+                                        </td>
+                                        <td style="width: 150px">
+                                            09/05/2016 23:30:40
+                                        </td>
+                                        <td style="width: 150px">
+                                            Ali Cakmak
+                                        </td>
+                                        <td style="width: 100px">
+                                            0.43 MB
+                                        </td>
+                                    </tr>
+                                </table>
+                            
+								</div>
+                        </td>
+							</tr><tr class="bar">
+								<td style="width:950px;">
+                            <div id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_grdMyBoxList_ctl03_pnlListItem" onclick="selectPanel(this,1,event)">
+									
+                                <table cellpadding="0" cellspacing="0" width="950px">
+                                    <tr>
+                                        <td style="width: 400px">
+                                            <img id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_grdMyBoxList_ctl03_imgFile" onclick="openFile('https://my.sehir.edu.tr/CourseGroupDropBox/78/7312/Lectures/Week 13/optimization.py')" src="../../_CONTROLTEMPLATES/LMS_V2/_layouts/images/lg_icgen.gif" style="height:30px;border-width:0px;vertical-align: middle; margin-right: 10px; margin-left: 10px; cursor: pointer" />
+                                            <a onclick="openFile('https://my.sehir.edu.tr/CourseGroupDropBox/78/7312/Lectures/Week 13/optimization.py');" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_grdMyBoxList_ctl03_lnkFile" URL="https://my.sehir.edu.tr/CourseGroupDropBox/78/7312/Lectures/Week 13/optimization.py" Type="File" GUID="208cf28a-b4a9-4bcb-8b52-aaa0b55fb110" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$grdMyBoxList$ctl03$lnkFile&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))" style="color:Gray;">optimization.py</a>
+                                        </td>
+                                        <td style="width: 150px">
+                                            09/05/2016 20:31:37
+                                        </td>
+                                        <td style="width: 150px">
+                                            10/05/2016 11:11:16
+                                        </td>
+                                        <td style="width: 150px">
+                                            Ali Cakmak
+                                        </td>
+                                        <td style="width: 100px">
+                                            0.01 MB
+                                        </td>
+                                    </tr>
+                                </table>
+                            
+								</div>
+                        </td>
+							</tr><tr class="bar">
+								<td style="width:950px;">
+                            <div id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_grdMyBoxList_ctl04_pnlListItem" onclick="selectPanel(this,2,event)">
+									
+                                <table cellpadding="0" cellspacing="0" width="950px">
+                                    <tr>
+                                        <td style="width: 400px">
+                                            <img id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_grdMyBoxList_ctl04_imgFile" onclick="openFile('https://my.sehir.edu.tr/CourseGroupDropBox/78/7312/Lectures/Week 13/schedule.txt')" src="../../_CONTROLTEMPLATES/LMS_V2/_layouts/images/lg_ictxt.gif" style="height:30px;border-width:0px;vertical-align: middle; margin-right: 10px; margin-left: 10px; cursor: pointer" />
+                                            <a onclick="openFile('https://my.sehir.edu.tr/CourseGroupDropBox/78/7312/Lectures/Week 13/schedule.txt');" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_grdMyBoxList_ctl04_lnkFile" URL="https://my.sehir.edu.tr/CourseGroupDropBox/78/7312/Lectures/Week 13/schedule.txt" Type="File" GUID="7b073bd0-657d-47f5-8ea2-ae48ffa1fd5c" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$grdMyBoxList$ctl04$lnkFile&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))" style="color:Gray;">schedule.txt</a>
+                                        </td>
+                                        <td style="width: 150px">
+                                            09/05/2016 20:31:37
+                                        </td>
+                                        <td style="width: 150px">
+                                            09/05/2016 23:31:37
+                                        </td>
+                                        <td style="width: 150px">
+                                            Ali Cakmak
+                                        </td>
+                                        <td style="width: 100px">
+                                            0 MB
+                                        </td>
+                                    </tr>
+                                </table>
+                            
+								</div>
+                        </td>
+							</tr>
+						</table>
+					</div>
+            <br />
+            <span id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_lblQuota">10 GB'ın kullanılan alanı:0 MB ( %0 )</span>
+            <input type="submit" name="ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnSelectedIndex" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnSelectedIndex&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_btnSelectedIndex" class="hidebutton" />
+            <input type="submit" name="ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnOpenFolder" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnOpenFolder&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_btnOpenFolder" class="hidebutton" />
+            <input type="submit" name="ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnDowloadFileRefresh" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnDowloadFileRefresh&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_btnDowloadFileRefresh" class="hidebutton" />
+            <input type="submit" name="ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnRefreshFolder" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnRefreshFolder&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_btnRefreshFolder" class="hidebutton" />
+            <input type="submit" name="ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnSearch" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_btnSearch" class="hidebutton" />
+            <input type="hidden" name="ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$hdnFolderURL" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_hdnFolderURL" value="e5075d2b-d017-4d7e-a668-954e8c3e996d" />
+            <input type="hidden" name="ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$hdnSelectedIndex" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_hdnSelectedIndex" value="1" />
+            <input type="hidden" name="ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$hdnMultiSelect" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_hdnMultiSelect" value="0" />
+            <input type="submit" name="ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$btnDownloadDoc" value="" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_btnDownloadDoc" class="Invisible" />
+            <input type="hidden" name="ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$hfUrl" id="ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_hfUrl" value="https://my.sehir.edu.tr/CourseGroupDropBox/78/7312/Lectures/Week 13/schedule.txt" />
+        
+				</div>
+</div>
+
+			</div>
+
+
+		</div></div></td>
+	</tr>
+</table></td></tr></table></div>
+<div id="vid_d441d113-eeb7-4e32-b5ce-fa983b6681ee" style="display:none"></div></div>
+</div>
+				</div>
+				
+			</div>
+		
+
+					</div>
+			</div></div>
+     
+    
+    <div id="temizle" class="s4-notdlg"></div>
+  </div>
+  <div id="alt"class="s4-notdlg">
+    <div id="alt_menu">
+    <div id="alt_menu_sol"> 
+      <div class="paylas">
+      	<a href="http://twitter.com/SehirUniversite" target="_blank"><img src="/images/my_img/twitter.png" width="21" height="21" border="0" align="absmiddle"/></a> 
+      	</div>
+      	<div class="paylas">
+      	<a href="http://www.facebook.com/IstanbulSehirUniversitesi" target="_blank"><img src="/images/my_img/face.png" width="21" height="21" border="0"align="absmiddle" /></a>
+      	</div>
+      	<div class="fb-like paylas" data-href="http://my.sehir.edu.tr/" data-send="false" data-layout="button_count" data-width="60" data-show-faces="true"></div>      	
+      	<div class="paylas" style="width:60px!important">
+      	<g:plusone size="medium" href="http://my.sehir.edu.tr/"></g:plusone>
+      	</div>
+      	<div class="paylas"> 
+      	<a href="http://www.sehir.edu.tr" style="color:black">www.sehir.edu.tr</a>
+      	</div>
+      </div>
+
+      
+      <div id="alt_menu_sagwebpart">
+      
+<div id="ctl00_g_023ef078_ce74_4623_8a26_f12eb2e93307" __MarkupType="vsattributemarkup" __WebPartId="{023ef078-ce74-4623-8a26-f12eb2e93307}" WebPart="true">
+	
+<div id="alt_menu_sag">
+    <ul>
+        <span id="ctl00_g_023ef078_ce74_4623_8a26_f12eb2e93307_ctl00_lblfooter"><li><a target='_self' href='/Pages/ContactCenter.aspx' class='altmenucizgi'>ÇÖZÜM MERKEZİ</a></li><li><a target='_self' href='https://my.sehir.edu.tr/HELPDESK/Pages/default.aspx' class='altmenucizgi'>HELPDESK</a></li><li><a target='_blank' href='http://aday.sehir.edu.tr/'>ADAY</a></li></span>
+    </ul>
+</div>
+
+</div>
+      
+      
+</div>
+    </div>
+    <div id="alt_copyright" class="s4-notdlg">Copyright © 2011 İstanbul Şehir University. All rights reserved. Designed by SUIT</div>
+  </div>
+  <div id="temizle" class="s4-notdlg"></div>
+</div>
+		
+		
+		<script type="text/javascript">
+		jQuery(document).ready(function() {
+		    jQuery("#s4-workspace").height(jQuery(window).height() );
+		});
+	</script>
+		<!------------------------benim eklediklerim  ------------------->
+		
+			
+		</div>
+
+          </div> 
+     
+  
+		
+  
+   <input type="text" name="__spText1" title="text" style="display:none;" />
+   <input type="text" name="__spText2" title="text" style="display:none;" />
+  <div id="ctl00_panelZone">
+	<div style='display:none' id='hidZone'><table width="100%" cellpadding="0" cellspacing="0" border="0">
+		<tr>
+			<td id="MSOZoneCell_WebPartctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee" valign="top" class="s4-wpcell-plain"><div class="ms-PartSpacingVertical"></div></td>
+		</tr><tr>
+			<td id="MSOZoneCell_WebPartctl00_m_g_bf2a5f37_b79a_4a03_9fcc_dda5355ca7fa" valign="top" class="s4-wpcell-plain"></td>
+		</tr>
+	</table></div>
+</div><input type='hidden' id='_wpcmWpid' name='_wpcmWpid' value='' /><input type='hidden' id='wpcmVal' name='wpcmVal' value=''/>
+
+<script type="text/javascript">
+//<![CDATA[
+var _spFormDigestRefreshInterval = 1440000;window.g_updateFormDigestPageLoaded = new Date(); window.g_updateFormDigestPageLoaded.setDate(window.g_updateFormDigestPageLoaded.getDate() -5);function loadMDN2() { EnsureScript('MDN.js', typeof(loadFilterFn), null); }
+function loadMDN1() { ExecuteOrDelayUntilScriptLoaded(loadMDN2, 'sp.ribbon.js'); }
+_spBodyOnLoadFunctionNames.push('loadMDN1');
+function _spNavigateHierarchyEx(nodeDiv, dataSourceId, dataPath, url, listInContext, type, additionalQString) {
+    SetAdditionalNavigateHierarchyQString(additionalQString);
+    g_originalSPNavigateFunc(nodeDiv, dataSourceId, dataPath, url, listInContext, type);
+}
+
+g_originalSPNavigateFunc = _spNavigateHierarchy;
+_spNavigateHierarchy = _spNavigateHierarchyEx;
+
+function EnsureScripts(scriptInfoList, finalFunction)
+{
+if (scriptInfoList.length == 0)
+{
+finalFunction();
+}
+else
+{
+var scriptInfo = scriptInfoList.shift();
+var rest = function () { EnsureScripts(scriptInfoList, finalFunction); };
+var defd;
+try
+{
+eval('defd = typeof(' + scriptInfo[1] + ');');
+}
+catch (e)
+{
+defd = 'undefined';
+}
+if (scriptInfo[2])
+{
+EnsureScript(scriptInfo[0], defd, null);
+ExecuteOrDelayUntilScriptLoaded(rest, scriptInfo[0]);
+}
+else
+{
+EnsureScript(scriptInfo[0], defd, rest);
+}
+}
+}
+function PublishingRibbonUpdateRibbon()
+{
+var pageManager = SP.Ribbon.PageManager.get_instance();
+if (pageManager)
+{
+pageManager.get_commandDispatcher().executeCommand('appstatechanged', null);
+}
+}var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{989eb17f-75cc-49a6-ac0f-e67a4cde5956}",itemId: 364,recycleBinEnabled: true,enableMinorVersioning: true,enableModeration: false,forceCheckout: true,rootFolderUrl: "\u002fPages",itemPermissions:{High:176,Low:138612833}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+}
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js"); var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';//]]>
+</script>
+<script type="text/javascript" language="JavaScript" defer="defer">
+<!--
+function SearchEnsureSOD() { EnsureScript('search.js',typeof(GoSearch)); } _spBodyOnLoadFunctionNames.push('SearchEnsureSOD');function S3031AEBB_Submit() {if (document.getElementById('ctl00_PlaceHolderSearchArea_ctl01_ctl04').value == '0') { document.getElementById('ctl00_PlaceHolderSearchArea_ctl01_S3031AEBB_InputKeywords').value=''; }SearchEnsureSOD();GoSearch('ctl00_PlaceHolderSearchArea_ctl01_ctl04','ctl00_PlaceHolderSearchArea_ctl01_S3031AEBB_InputKeywords',null,true,false,null,'ctl00_PlaceHolderSearchArea_ctl01_ctl00',null,null,'This Site','\u002f_layouts\u002fOssSearchResults.aspx', 'This Site','This List', 'This Folder', 'Related Sites', '\u002f_layouts\u002fOSSSearchResults.aspx', '', 'Please enter one or more search words.');if (document.getElementById('ctl00_PlaceHolderSearchArea_ctl01_ctl04').value == '0') { document.getElementById('ctl00_PlaceHolderSearchArea_ctl01_S3031AEBB_InputKeywords').value=''; }}
+// -->
+</script><script type="text/javascript" language="JavaScript" >
+// append an onload event handler
+$addHandler(window, 'load', function() {
+  document.getElementById('ctl00_PlaceHolderSearchArea_ctl01_S3031AEBB_InputKeywords').name = 'InputKeywords';
+});
+function S3031AEBB_OSBEK(event1) { 
+if((event1.which == 10) || (event1.which == 13))
+{   
+S3031AEBB_Submit();return false;
+}
+}
+{ var searchTextBox = document.getElementById('ctl00_PlaceHolderSearchArea_ctl01_S3031AEBB_InputKeywords');if (searchTextBox.className.indexOf('s4-searchbox-QueryPrompt') == -1) searchTextBox.className += searchTextBox.className?' s4-searchbox-QueryPrompt':'s4-searchbox-QueryPrompt'; }// -->
+</script><script type="text/javascript">
+// <![CDATA[
+document.write('<script type="text/javascript" src="/_layouts/sp.core.js?rev=7ByNlH%2BvcgRJg%2BRCctdC0w%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/ScriptResx.ashx?culture=en%2Dus&amp;name=SP%2ERes&amp;rev=b6%2FcRx1a6orhAQ%2FcF%2B0ytQ%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/sp.ui.dialog.js?rev=Tpcmo1%2FSu6R0yewHowDl5g%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/sp.runtime.js?rev=IGffcZfunndj0247nOxKVg%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/sp.js?rev=%2B4ZEyA892P3T0504qi0paw%3D%3D"></' + 'script>');
+// ]]>
+</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f1033\u002fcore.js?rev=8rlsshAARQvoP2QhuVJYpg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("cui.js", "\u002f_layouts\u002fcui.js?rev=OOyJv78CADNBeet\u00252FvTvniQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("inplview", "\u002f_layouts\u002finplview.js?rev=WB6Gy8a027aeNCq7koVCUg\u00253D\u00253D");RegisterSodDep("inplview", "core.js");</script>
+<script type="text/javascript">RegisterSod("ribbon", "\u002f_layouts\u002fsp.ribbon.js?rev=F\u00252BUEJ66rbXzSvpf7nN69wQ\u00253D\u00253D");RegisterSodDep("ribbon", "core.js");RegisterSodDep("ribbon", "cui.js");RegisterSodDep("ribbon", "inplview");</script>
+<script type="text/javascript">RegisterSod("sp.ui.policy.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EUI\u00252EPolicy\u00252EResources\u0026rev=YhBHGmUAGyJ3lAgSdE4V\u00252Fw\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("mdn.js", "\u002f_layouts\u002fmdn.js?rev=gwmFFJ2\u00252FfFacqXWAqG\u00252FqKg\u00253D\u00253D");RegisterSodDep("mdn.js", "cui.js");RegisterSodDep("mdn.js", "ribbon");RegisterSodDep("mdn.js", "sp.ui.policy.resources.resx");</script>
+<script type="text/javascript">RegisterSod("sp.publishing.resources.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252EPublishing\u00252EResources\u0026rev=q6nxzZIVVXE5X1SPZIMD3A\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.pub.ribbon.js", "\u002f_layouts\u002fsp.ui.pub.ribbon.js?rev=RGQSBI9Dm0E345iq\u00252FxUpHg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("msstring.js", "\u002f_layouts\u002f1033\u002fmsstring.js?rev=QtiIcPH3HV7LgVSO7vONFg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f1033\u002fie55up.js?rev=UgTcwUTI6YcRzTMBxD93Xg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("search.js", "\u002f_layouts\u002fsearch.js?rev=BjP0\u00252BmPXUFhF7kDZmHIaVg\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSodDep("browserScript", "msstring.js");</script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadToolTipManager, {"_cssClass":"","_manualCloseButtonText":"Close","_updatePanelUniqueId":"ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$RadToolTipManager1RTMPanel","clientStateFieldID":"ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_RadToolTipManager1_ClientState","formID":"aspnetForm","height":"20px","ignoreAltAttribute":true,"isToolTipFactory":true,"loadOnDemand":false,"position":12,"relativeTo":1,"skin":"Default","targetControls":"[]","width":"100px"}, null, null, $get("ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_RadToolTipManager1"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadTextBox, {"_focused":false,"_postBackEventReferenceScript":"setTimeout(\"__doPostBack(\\\u0027ctl00$m$g_d441d113_eeb7_4e32_b5ce_fa983b6681ee$ctl00$radtxtSearch\\\u0027,\\\u0027\\\u0027)\", 0)","_skin":"Default","clientStateFieldID":"ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_radtxtSearch_ClientState","emptyMessage":"MyBox\u0027da Ara","enabled":true,"styles":{HoveredStyle: ["font-size:9px;width:125px;", "riTextBox riHover"],InvalidStyle: ["font-size:9px;width:125px;", "riTextBox riError"],DisabledStyle: ["font-size:9px;width:125px;", "riTextBox riDisabled"],FocusedStyle: ["font-size:9px;width:125px;", "riTextBox riFocused"],EmptyMessageStyle: ["font-size:9px;width:125px;", "riTextBox riEmpty"],ReadOnlyStyle: ["font-size:9px;width:125px;", "riTextBox riRead"],EnabledStyle: ["font-size:9px;width:125px;", "riTextBox riEnabled"]}}, null, null, $get("ctl00_m_g_d441d113_eeb7_4e32_b5ce_fa983b6681ee_ctl00_radtxtSearch"));
+});
+//]]>
+</script>
+</form>
+  
+	
+	
+<script type="text/javascript">
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3710315-16']);
+  _gaq.push(['_trackPageview']);
+
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+
+</script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {lang: 'tr'}
+</script>
+
+</body>
+</html>
+<span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span>
