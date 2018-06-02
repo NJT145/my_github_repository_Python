@@ -1,0 +1,1 @@
+Copy and paste the code files to both computers and run just "p1_server_gui.py", "p1_client_gui.py" these files.
