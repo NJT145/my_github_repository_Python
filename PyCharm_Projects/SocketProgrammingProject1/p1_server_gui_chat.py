@@ -58,6 +58,7 @@ class ServerGuiPart2:
         self.fileUploadButton.place(x=305, y=360, height=80, width=90)
 
         self.packSize = 1000
+        self.maxPackID = 10 ** 10
         self.fileToSend = None
         self.filePathToSend = None
         self.fileGetRequestWaitingToSend = False
@@ -65,6 +66,7 @@ class ServerGuiPart2:
         self.fileNameToGet = None
         self.fileHashToGet = None
         self.fileSendRequestWaitingToGet = False
+        self.errorMssgReceived = False
 
         threading.Thread(target=self.ReceiveData).start()
         self.base.mainloop()
@@ -85,7 +87,17 @@ class ServerGuiPart2:
                         self.fileHashToGet = data.split("/")[1][8:]
                         self.getDownloadFile(self.fileNameToGet)
                     elif self.fileGetRequestWaitingToSend:  # send file to partner
-                        pass  # TODO: send file # Use "self.fileToSend"
+                        dir_path, fileName = os.path.split(self.filePathToSend)
+                        # check file name
+                        fileNameOk = data.split("/")[0][14:].startswith(fileName)
+                        # check hash key
+                        hashKeyOk = data.split("/")[1][8:].startswith(md5Checksum(self.filePathToSend))
+                        if fileNameOk and hashKeyOk:
+                            for packID, packPart in enumerate(self.fileToSend):
+                                mssg = sendPackageMssg(packIndexStr(packID, self.maxPackID), packPart)
+                                #TODO: send mssg
+                        else:
+                            pass  # TODO: send error message
                     else:
                         data1 = receiveEmoji(data)
                         displayRemoteMessage(self.chatBox, data1)
@@ -110,7 +122,17 @@ class ServerGuiPart2:
                         self.fileHashToGet = data.split("/")[1][8:]
                         self.getDownloadFile(self.fileNameToGet)
                     elif self.fileGetRequestWaitingToSend:  # send file to partner
-                        pass  # TODO: send file # Use "self.fileToSend"
+                        dir_path, fileName = os.path.split(self.filePathToSend)
+                        # check file name
+                        fileNameOk = data.split("/")[0][14:].startswith(fileName)
+                        # check hash key
+                        hashKeyOk = data.split("/")[1][8:].startswith(md5Checksum(self.filePathToSend))
+                        if fileNameOk and hashKeyOk:
+                            for packID, packPart in enumerate(self.fileToSend):
+                                mssg = sendPackageMssg(packIndexStr(packID, self.maxPackID), packPart)
+                                #TODO: send mssg
+                        else:
+                            pass  # TODO: send error message
                     else:
                         data1 = receiveEmoji(data)
                         displayRemoteMessage(self.chatBox, data1)
@@ -128,12 +150,14 @@ class ServerGuiPart2:
             if self.filePathToSend != None:  # send request from you to partner
                 dir_path, fileName = os.path.split(self.filePathToSend)
                 self.server_socket.sendall(fileSendRequest(fileName, md5Checksum(self.filePathToSend)).encode("utf-8"))
+                self.cancelFileButton.destroy()
         else:
             self.server_socket.sendto(sendEmoji(messageText).encode("utf-8"), (self.s_ip, self.c_port))
             if self.filePathToSend != None:  # send request from you to partner
                 dir_path, fileName = os.path.split(self.filePathToSend)
                 self.server_socket.sendto(fileSendRequest(fileName, md5Checksum(self.filePathToSend)).encode("utf-8"),
                                           (self.s_ip, self.c_port))
+                self.cancelFileButton.destroy()
 
     def onEnterButtonPressed(self, event):
         self.textBox.config(state="normal")

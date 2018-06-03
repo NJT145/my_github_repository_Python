@@ -109,6 +109,14 @@ def checksumPack_file(hashKey, packNumTotal, maxPackID, lastPackSize):
     packNumTotalstr = "packNumTotal=" + ("0" * (maxLen - idLen)) + str(packNumTotal) + "/"
     return (packNumTotalstr + "hashFile=" + hashKey + "/lastPackSize=" + str(lastPackSize))
 
+def sendPackageMssg(packIDstr, packContent):
+    return (bytes(packIDstr, 'utf-8') + bytes("packContent=", 'utf-8') + packContent)
+
+def getPackageMssg(mssg):
+    packID = int(mssg.split("/packContent=")[0][7:])
+    packContent = bytes((mssg.split("/packContent=")[1]), 'utf-8')
+    return (packID, packContent)
+
 def fileSendRequest(fileName, hashKey):
     return ("fileNameToSend="+fileName+"/hashKey="+hashKey) #TODO: support for long fileName
 
@@ -120,4 +128,10 @@ def isFileSendRequest(mssg):
 
 def isFileGetRequest(mssg):
     return mssg.startswith("fileNameToGet=")
+
+def errorMessage():
+    return "Abort///"
+
+def isErrorMssg(mssg):
+    return mssg.startswith("Abort//")
 

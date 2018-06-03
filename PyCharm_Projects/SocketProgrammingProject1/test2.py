@@ -19,7 +19,9 @@ while True:
         file2.write(part)
         read_file_size2 = sys.getsizeof(part)
         size1 += read_file_size2
-        print(read_file_size2)
+        a = (bytes("packId=123/content=",'utf-8')+part)
+        print(part)
+        print(a.split(bytes("/content=",'utf-8')))
     else:  # when file data is empty break the loop
         break
 
