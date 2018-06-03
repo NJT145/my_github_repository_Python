@@ -90,12 +90,13 @@ class mp1:
 
     def send_udp(self):
         host = self.entry1.get()# get host ip
+        filename = self.entry2.get()  # get filepath
         try:
             self.udp_conn = socket.socket(socket.AF_INET, socket.SOCK_DGRAM) # if none, create socket for udp connection
             self.udp_conn.bind((host, self.cport)) # bind the socket specified ip and port
         except OSError:
             pass # use existing socket
-        filename=self.entry2.get() # get filepath
+
         message = self.text1.get(0.0,END).replace('\n','') # get message
         if message:
             self.udp_conn.sendto('message'.encode('utf-8'),(host,self.uport)) # send type data to server

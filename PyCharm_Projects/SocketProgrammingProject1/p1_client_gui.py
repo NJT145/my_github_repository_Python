@@ -41,18 +41,22 @@ class ClientGuiPart1:
 
     def start_client(self,host_ip, host_port, selected_prot):
         self.host = host_ip
-        self.port = int(host_port)
+        self.port = host_port
         self.protocol = selected_prot
         self.client_socket = None
 
         if selected_prot == "tcp":
             client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
             client_socket.connect((self.host, self.port))  # connect to the server
+            self.label11 = tk.Label(self.parent, text="--------------------------------------").grid(column=2,
+                                                                                                     row=4)
             p1_client_gui_chat.ClientGuiPart2(client_socket, self.host, selected_prot)
         elif selected_prot == "udp":
             client_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
             client_socket.connect((self.host, self.port))
             client_socket.sendto("udp".encode("utf-8"), (self.host, self.port))
+            self.label11 = tk.Label(self.parent, text="--------------------------------------").grid(column=2,
+                                                                                                     row=4)
             p1_client_gui_chat.ClientGuiPart2(client_socket, self.host, selected_prot)
         else:
             print("try connection again")
