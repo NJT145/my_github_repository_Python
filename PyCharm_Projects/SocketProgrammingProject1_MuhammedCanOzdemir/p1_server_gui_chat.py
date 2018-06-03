@@ -272,7 +272,10 @@ class ServerGuiPart2:
             self.packages.append(pack)
         self.packages.sort()
         if self.packages[self.currentPackageID][0] == self.currentPackID:
+            status = str(str(int(self.packages[self.currentPackageID][0])+1) + " / " + str(
+                int(self.fileToDownload_Info["packNoTotal"])))
             writeFile(self.writeTo, self.packages[self.currentPackageID][1])
+            self.downloadStatus.config(text=status)
             self.currentPackageID += 1
             self.currentPackID += 1
         elif self.packages[self.currentPackageID][0] > self.currentPackID:

@@ -57,7 +57,7 @@ class ClientGuiPart2:
         self.fileUploadButton.place(x=305, y=360, height=80, width=90)
 
         self.packSize = 1000
-        self.maxPackID = 10**10
+        self.maxPackID = 10 ** 10
         self.fileToSend = None
         self.filePathToSend = None
         self.fileGetRequestWaitingToSend = False
@@ -103,14 +103,14 @@ class ClientGuiPart2:
                                 mssg = sendPackageMssg(packIndexStr(packID, self.maxPackID), packPart)
                                 self.client_socket.sendall(mssg)
                         else:
-                            #self.client_socket.sendall(errorMssg.encode("utf-8"))
+                            # self.client_socket.sendall(errorMssg.encode("utf-8"))
                             pass  # TODO: send error message
-                    elif isPackageMssg(data): # get package #TODO: check for corrupted packages
+                    elif isPackageMssg(data):  # get package #TODO: check for corrupted packages
                         pack = getPackageMssg(data)
                         self.writePacks(pack)
-                    elif isChecksumMssg(data): # get file info
+                    elif isChecksumMssg(data):  # get file info
                         self.fileToDownload_Info = getChecksumPack(data)
-                        #TODO: check file hash at the end
+                        # TODO: check file hash at the end
                     else:
                         data1 = receiveEmoji(data)
                         displayRemoteMessage(self.chatBox, data1)
@@ -148,14 +148,14 @@ class ClientGuiPart2:
                                 mssg = sendPackageMssg(packIndexStr(packID, self.maxPackID), packPart)
                                 self.client_socket.sendto(mssg, (self.c_ip, self.s_port))
                         else:
-                            #self.client_socket.sendto(errorMssg.encode("utf-8"), (self.c_ip, self.s_port))
+                            # self.client_socket.sendto(errorMssg.encode("utf-8"), (self.c_ip, self.s_port))
                             pass  # TODO: send error message
-                    elif isPackageMssg(data): # get package #TODO: check for corrupted packages
+                    elif isPackageMssg(data):  # get package #TODO: check for corrupted packages
                         pack = getPackageMssg(data)
                         self.writePacks(pack)
-                    elif isChecksumMssg(data): # get file info
+                    elif isChecksumMssg(data):  # get file info
                         self.fileToDownload_Info = getChecksumPack(data)
-                        #TODO: check file hash at the end
+                        # TODO: check file hash at the end
                     else:
                         data1 = receiveEmoji(data)
                         displayRemoteMessage(self.chatBox, data1)
@@ -261,7 +261,10 @@ class ClientGuiPart2:
             self.packages.append(pack)
         self.packages.sort()
         if self.packages[self.currentPackageID][0] == self.currentPackID:
+            status = str(str(int(self.packages[self.currentPackageID][0])+1) + " / " + str(
+                int(self.fileToDownload_Info["packNoTotal"])))
             writeFile(self.writeTo, self.packages[self.currentPackageID][1])
+            self.downloadStatus.config(text=status)
             self.currentPackageID += 1
             self.currentPackID += 1
         elif self.packages[self.currentPackageID][0] > self.currentPackID:
@@ -269,6 +272,3 @@ class ClientGuiPart2:
             self.writePacks(pack)
         else:
             raise errorMessage("package error")
-
-
-
