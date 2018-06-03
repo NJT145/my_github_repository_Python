@@ -66,6 +66,10 @@ class ClientGuiPart2:
         self.fileHashToGet = None
         self.fileSendRequestWaitingToGet = False
         self.errorMssgReceived = False
+        self.fileToDownload_Info = {}
+        self.packages = []
+        self.currentPackID = 0
+        self.currentPackageID = 0
 
         threading.Thread(target=self.ReceiveData).start()
         self.base.mainloop()
@@ -92,11 +96,21 @@ class ClientGuiPart2:
                         # check hash key
                         hashKeyOk = data.split("/")[1][8:].startswith(md5Checksum(self.filePathToSend))
                         if fileNameOk and hashKeyOk:
+                            checksumMssg = checksumPack(md5Checksum(self.filePathToSend), len(self.fileToSend),
+                                                        self.maxPackID, sys.getsizeof(self.fileToSend[-1]))
+                            self.client_socket.sendall(checksumMssg.encode("utf-8"))
                             for packID, packPart in enumerate(self.fileToSend):
                                 mssg = sendPackageMssg(packIndexStr(packID, self.maxPackID), packPart)
-                                #TODO: send mssg
+                                self.client_socket.sendall(mssg)
                         else:
+                            #self.client_socket.sendall(errorMssg.encode("utf-8"))
                             pass  # TODO: send error message
+                    elif isPackageMssg(data): # get package #TODO: check for corrupted packages
+                        pack = getPackageMssg(data)
+                        self.writePacks(pack)
+                    elif isChecksumMssg(data): # get file info
+                        self.fileToDownload_Info = getChecksumPack(data)
+                        #TODO: check file hash at the end
                     else:
                         data1 = receiveEmoji(data)
                         displayRemoteMessage(self.chatBox, data1)
@@ -127,11 +141,21 @@ class ClientGuiPart2:
                         # check hash key
                         hashKeyOk = data.split("/")[1][8:].startswith(md5Checksum(self.filePathToSend))
                         if fileNameOk and hashKeyOk:
+                            checksumMssg = checksumPack(md5Checksum(self.filePathToSend), len(self.fileToSend),
+                                                        self.maxPackID, sys.getsizeof(self.fileToSend[-1]))
+                            self.client_socket.sendto(checksumMssg.encode("utf-8"), (self.c_ip, self.s_port))
                             for packID, packPart in enumerate(self.fileToSend):
                                 mssg = sendPackageMssg(packIndexStr(packID, self.maxPackID), packPart)
-                                #TODO: send mssg
+                                self.client_socket.sendto(mssg, (self.c_ip, self.s_port))
                         else:
+                            #self.client_socket.sendto(errorMssg.encode("utf-8"), (self.c_ip, self.s_port))
                             pass  # TODO: send error message
+                    elif isPackageMssg(data): # get package #TODO: check for corrupted packages
+                        pack = getPackageMssg(data)
+                        self.writePacks(pack)
+                    elif isChecksumMssg(data): # get file info
+                        self.fileToDownload_Info = getChecksumPack(data)
+                        #TODO: check file hash at the end
                     else:
                         data1 = receiveEmoji(data)
                         displayRemoteMessage(self.chatBox, data1)
@@ -216,6 +240,7 @@ class ClientGuiPart2:
         self.downloadFileButton.destroy()
 
     def onClickDownload(self):
+        self.writeTo = fd.asksaveasfilename()
         # send a "get" request from you to partner
         if self.c_protocol == "tcp":
             self.client_socket.sendall(fileGetRequest(self.fileNameToGet, self.fileHashToGet).encode("utf-8"))
@@ -226,7 +251,24 @@ class ClientGuiPart2:
                                        relief=SUNKEN)
 
         self.downloadStatus.place(x=180, y=335, height=20, width=100)
-        # TODO: file download loop
+        # TODO: file download loop --> done
 
     def cleanDownloadStatus(self):
         self.downloadStatus.destroy()
+
+    def writePacks(self, pack):
+        if pack not in self.packages:
+            self.packages.append(pack)
+        self.packages.sort()
+        if self.packages[self.currentPackageID][0] == self.currentPackID:
+            writeFile(self.writeTo, self.packages[self.currentPackageID][1])
+            self.currentPackageID += 1
+            self.currentPackID += 1
+        elif self.packages[self.currentPackageID][0] > self.currentPackID:
+            self.currentPackID += 1
+            self.writePacks(pack)
+        else:
+            raise errorMessage("package error")
+
+
+

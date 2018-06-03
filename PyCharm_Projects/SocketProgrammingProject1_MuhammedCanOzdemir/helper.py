@@ -95,19 +95,18 @@ def md5Checksum(path):
         md5_returned = hashlib.md5(data).hexdigest()
     return md5_returned
 
-def checksumPack(hashKey, packID, maxPackID):
-    return ((packIndexStr(packID,maxPackID)) + "hash=" + hashKey)
-
-def checksumPackSize(maxPackID):
-    hashKey_length = 32  # fixed length for md5 checksum key
-    str = (packIndexStr(0,maxPackID) + "hash=" + ("0"*hashKey_length))
-    return (len(str), sys.getsizeof(bytes(str, 'utf-8'))) # str_length , byte_size
-
-def checksumPack_file(hashKey, packNumTotal, maxPackID, lastPackSize):
+def checksumPack(hashKey, packNoTotal, maxPackID, lastPackSize):
     maxLen = len(str(maxPackID))
-    idLen = len(str(packNumTotal))
-    packNumTotalstr = "packNumTotal=" + ("0" * (maxLen - idLen)) + str(packNumTotal) + "/"
-    return (packNumTotalstr + "hashFile=" + hashKey + "/lastPackSize=" + str(lastPackSize))
+    idLen = len(str(packNoTotal))
+    packNoTotalstr = "packNoTotal=" + ("0" * (maxLen - idLen)) + str(packNoTotal) + "/"
+    return (packNoTotalstr + "hashFile=" + hashKey + "/lastPackSize=" + str(lastPackSize))
+
+def getChecksumPack(mssg):
+    packInfo = {}
+    packInfo["packNoTotal"] = mssg.split("/hashFile=")[0][12:]
+    packInfo["hashKey"] = mssg.split("/hashFile=")[1].split("/lastPackSize=")[0]
+    packInfo["lastPackSize"] = mssg.split("/hashFile=")[1].split("/lastPackSize=")[1]
+    return packInfo
 
 def sendPackageMssg(packIDstr, packContent):
     return (bytes(packIDstr, 'utf-8') + bytes("packContent=", 'utf-8') + packContent)
@@ -116,6 +115,12 @@ def getPackageMssg(mssg):
     packID = int(mssg.split("/packContent=")[0][7:])
     packContent = bytes((mssg.split("/packContent=")[1]), 'utf-8')
     return (packID, packContent)
+
+def isPackageMssg(mssg):
+    return mssg.startswith("packID=")
+
+def isChecksumMssg(mssg):
+    return mssg.startswith("packNoTotal=")
 
 def fileSendRequest(fileName, hashKey):
     return ("fileNameToSend="+fileName+"/hashKey="+hashKey) #TODO: support for long fileName
@@ -134,4 +139,14 @@ def errorMessage():
 
 def isErrorMssg(mssg):
     return mssg.startswith("Abort//")
+
+def fileNameGenerateFromAnother(filename, num):
+    extension = filename.split(".")[-1]
+    fileNameWithoutExtension = ".".join(filename.split(".")[0:-1])
+    return (fileNameWithoutExtension+"("+str(num)+")"+extension)
+
+def writeFile(path, contentBytes):
+    file = open(path, 'wb')  # write file as bytes
+    file.write(contentBytes)
+    file.close()
 

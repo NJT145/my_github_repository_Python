@@ -80,7 +80,7 @@ class ServerGuiPart2:
         self.cancelFileButton.place(x=290, y=310, height=20, width=100)
         self.sendFileNameBox.config(text=filename)
 
-        #self.getDownloadFile(filename)
+        self.getDownloadFile(filename)
 
     def onClickCancel(self):
         self.sendFileNameBox.destroy()
@@ -102,6 +102,8 @@ class ServerGuiPart2:
         self.downloadFileButton.destroy()
 
     def onClickDownload(self):
+        writeTo = fd.asksaveasfilename()
+        print([writeTo])
         self.downloadStatus = tk.Label(self.base, font="Helvetica", text=u"status", bd=1, bg="gray", fg="Black",
                                        relief=SUNKEN)
         self.downloadStatus.place(x=180, y=335, height=20, width=100)
