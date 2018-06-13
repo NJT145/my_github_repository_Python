@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/PyCharm_Projects.iml" filepath="$PROJECT_DIR$/.idea/PyCharm_Projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/SocketProgrammingProject1_MuhammedCanOzdemir/.idea/SocketProgrammingProject1.iml" filepath="$PROJECT_DIR$/SocketProgrammingProject1_MuhammedCanOzdemir/.idea/SocketProgrammingProject1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../website_simAnalyzer/.idea/website_simAnalyzer.iml" filepath="$PROJECT_DIR$/../website_simAnalyzer/.idea/website_simAnalyzer.iml" />
     </modules>
   </component>
 </project>
