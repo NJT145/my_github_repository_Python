@@ -1,30 +1,14 @@
 from django.db import models
 from django.contrib.auth.models import AbstractUser
-from django.contrib.postgres.fields import JSONField
+from django.contrib.postgres.fields import JSONField, ArrayField
 
 
-class User(AbstractUser):
-    prefered_books = JSONField()
-    similar_books = JSONField()
-
-    def __str__(self):
-        return self.email
-
-    def get_preferedBooks(self):
-        return self.prefered_books
-
-    def set_preferedBooks(self):
-        return self.prefered_books
-
-    def get_similarBooks(self):
-        return self.similar_books
-
+class UserGroup(models.Model):
+    mail = models.EmailField(max_length=100, unique= True)
+    password = models.CharField(max_length=100)
+    prefered_books = JSONField(blank=True, null=True)
+    similar_books = JSONField(blank=True, null=True)
 
 class Books(models.Model):
-    category = models.CharField(max_length=20)
-    name = models.CharField(max_length=500)
-    writer = models.CharField(max_length=500)
-    lang = models.CharField(max_length=20)
-    topic_titles = models.CharField(max_length=1000)
-    borrowing_no = models.FloatField(default=0.0)
-
+    name = models.CharField(max_length=500, unique=True)
+    topic_titles = ArrayField(ArrayField(models.CharField(max_length=100)))
