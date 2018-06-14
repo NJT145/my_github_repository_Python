@@ -80,3 +80,15 @@
 #print(df.filter(df['Ödünç Sayısı'].isNull()).count())
 #df = df.fillna({'Sınıflama' : 'noInfo', 'Eser Adı' : 'noInfo', 'Yazar' : 'noInfo', 'Dil' : 'noInfo', 'Konu Başlıkları' : 'noInfo' , 'Ödünç Sayısı' : 0.0})
 #print(df.filter(df['Ödünç Sayısı'].isNull()).count())
+
+##http://gsl.mit.edu/media/programs/india-summer-2012/materials/json_django.pdf
+##http://nemesisdesign.net/blog/coding/django-how-retrieve-query-string-parameters/
+##https://docs.djangoproject.com/en/2.0/ref/request-response/
+##https://docs.djangoproject.com/en/2.0/ref/contrib/postgres/fields/
+##https://www.geeksforgeeks.org/get-post-requests-using-python/
+##https://www.quora.com/How-do-I-get-the-key-value-from-the-JSON-field-in-values-in-Django
+##https://stackoverflow.com/questions/36680691/updating-jsonfield-in-django-rest-framework
+##https://docs.djangoproject.com/en/2.1/ref/contrib/postgres/fields/#django.contrib.postgres.fields.JSONField
+##https://djangobook.com/request-response-objects/
+##https://djangobook.com/django-models/
+##https://djangobook.com/django-models-basic-data-access/
