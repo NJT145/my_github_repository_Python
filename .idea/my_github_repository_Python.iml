@@ -5,7 +5,7 @@
     <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="PyCharm_Projects" />
-    <orderEntry type="module" module-name="SocketProgrammingProject1" />
+    <orderEntry type="module" module-name="SocketProgrammingProject1_MuhammedCanOzdemir" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="pytest" />
