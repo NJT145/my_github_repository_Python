@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6d3353d-da26-471c-8c80-1f73ca443510" name="Default Changelist" comment="" />
+    <list default="true" id="f6d3353d-da26-471c-8c80-1f73ca443510" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyCharm_Projects/IntroductionToProgramming_ENGR105/MP1/nejat_gunaydin.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyCharm_Projects/IntroductionToProgramming_ENGR105/MP1/nejat_gunaydin.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/PyCharm_Projects/IntroductionToProgramming_ENGR105/MP1/nejat_gunaydin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+            <state relative-caret-position="136">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="e#187#607#0" />
+                <element signature="e#39#455#0" />
+                <element signature="e#495#727#0" />
+                <element signature="e#811#1412#0" />
+                <element signature="e#974#1379#0" />
+                <element signature="e#2001#2414#0" />
+                <element signature="e#3460#3857#0" />
+                <element signature="e#1009#4849#0" />
+                <element signature="e#1349#1369#0" />
+                <element signature="e#1216#1240#0" />
+                <element signature="e#1703#1726#0" />
+                <element signature="e#2734#2758#0" />
+                <element signature="e#2874#2908#0" />
+                <element signature="e#3034#3050#0" />
+                <element signature="e#2265#2303#0" />
+                <element signature="e#3678#3701#0" />
+                <element signature="e#3870#3885#0" />
+                <element signature="e#3335#3349#0" />
+                <element signature="e#3380#3418#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -27,6 +51,18 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Going back to main menu...</find>
+      <find>login</find>
+      <find>user_name</find>
+      <find>login_user</find>
+      <find>login_user()</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>\nGoing back to main menu...</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -51,6 +87,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,14 +117,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/PyCharm_Projects/SocketProgrammingProject1_MuhammedCanOzdemir" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -128,6 +164,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="nejat_gunaydin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyCharm_Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyCharm_Projects/IntroductionToProgramming_ENGR105/MP1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyCharm_Projects/IntroductionToProgramming_ENGR105/MP1/nejat_gunaydin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.nejat_gunaydin" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -144,21 +206,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.3289689" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50074404" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -230,8 +293,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PyCharm_Projects/IntroductionToProgramming_ENGR105/MP1/nejat_gunaydin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#187#607#0" />
+            <element signature="e#39#455#0" />
+            <element signature="e#495#727#0" />
+            <element signature="e#811#1412#0" />
+            <element signature="e#974#1379#0" />
+            <element signature="e#2001#2414#0" />
+            <element signature="e#3460#3857#0" />
+            <element signature="e#1009#4849#0" />
+            <element signature="e#1349#1369#0" />
+            <element signature="e#1216#1240#0" />
+            <element signature="e#1703#1726#0" />
+            <element signature="e#2734#2758#0" />
+            <element signature="e#2874#2908#0" />
+            <element signature="e#3034#3050#0" />
+            <element signature="e#2265#2303#0" />
+            <element signature="e#3678#3701#0" />
+            <element signature="e#3870#3885#0" />
+            <element signature="e#3335#3349#0" />
+            <element signature="e#3380#3418#0" />
+          </folding>
         </state>
       </provider>
     </entry>
