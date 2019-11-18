@@ -1,4 +1,4 @@
-Django==2.0.6
+Django==2.0.12
 numpy==1.14.4
 pandas==0.23.1
 psycopg2==2.7.4
